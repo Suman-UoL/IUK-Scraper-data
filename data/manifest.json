@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T10:57:34+00:00",
+ "generated_at": "2026-09-18T12:55:46+00:00",
  "tables": {
   "competitions": {
    "rows": 224,
@@ -12,6 +12,10 @@
   "competition_changes": {
    "rows": 7,
    "description": "Detected edits to open competitions (old vs new value)"
+  },
+  "competition_labels": {
+   "rows": 224,
+   "description": "Rule based call type label per competition (derived, rebuilt daily)"
   },
   "competition_ai_fields": {
    "rows": 0,
