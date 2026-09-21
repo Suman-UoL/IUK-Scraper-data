@@ -54,5 +54,13 @@
   "old_value": "open",
   "new_value": "closed",
   "detected_at": "2026-09-18T10:56:58+00:00"
+ },
+ {
+  "id": 8,
+  "competition_id": 2573,
+  "field": "section:dates",
+  "old_value": "15 September 2026\nCompetition opens\n21 September 2026\nOnline briefing event:\njoin at 10:30am\n(Briefing slides will be available to download from supporting information after the event)\n28 October 2026 11:00am\nCompetition closes\n4 December 2026\nApplicants notified\n1 February 2027\nContracts awarded\n1 February 2027\nProject start from",
+  "new_value": "15 September 2026\nCompetition opens\n21 September 2026\nOnline briefing event:\njoin at 11:30am\n(Briefing slides will be available to download from supporting information after the event)\n28 October 2026 11:00am\nCompetition closes\n4 December 2026\nApplicants notified\n1 February 2027\nContracts awarded\n1 February 2027\nProject start from",
+  "detected_at": "2026-09-21T12:29:39+00:00"
  }
 ]
