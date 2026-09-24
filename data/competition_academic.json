@@ -1073,14 +1073,14 @@
   "max_academic_funding_gbp": 5400000,
   "demand_management": null,
   "demand_management_flag": "Green",
-  "demand_management_reason": "No 'Number of applications' section or restriction stated on this page.",
-  "confidence": 0.7,
-  "notes": "Academic institutions can only lead the capital infrastructure strand (not the research strand, where the lead must be a UK registered business); for industrial research projects academics are limited to a funded Partner role subject to the 30% research participation cap and 80% FEC funding rate.",
+  "demand_management_reason": "No 'Number of applications' section or restriction on submission counts is stated anywhere on this page.",
+  "confidence": 0.65,
+  "notes": "Eligibility is split by project type: for industrial research projects only a UK registered business may lead, but for capital infrastructure projects an academic institution may lead alone or with a research organisation, so 'Lead' is achievable depending on project type; the £18 million figure is the per-project capital infrastructure grant cap, used as the max_funding figure since no total project/eligible cost range is stated.",
   "evidence_max_funding": "Each infrastructure project can request total grant funding of up to £18 million",
-  "evidence_role": "be a UK registered business of any size, a research and technology organisation (RTO), research organisation or academic institution for capital infrastructure projects",
+  "evidence_role": "a research and technology organisation (RTO), research organisation or academic institution for capital infrastructure projects",
   "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 30% of the total eligible project costs",
-  "model_version": "claude-sonnet-5:academic_v3",
-  "extracted_at": "2026-09-22T15:01:32+00:00"
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-09-24T11:28:55+00:00"
  },
  {
   "competition_id": 2220,
