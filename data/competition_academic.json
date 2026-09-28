@@ -4313,6 +4313,25 @@
   "extracted_at": "2026-09-25T11:35:10+00:00"
  },
  {
+  "competition_id": 2583,
+  "max_funding_gbp": 350000,
+  "max_funding_basis": "grant",
+  "academic_role": "Partner",
+  "research_participation_cap_pct": 30,
+  "single_partner_cap_pct": 70,
+  "max_academic_funding_gbp": 105000,
+  "demand_management": "An eligible organisation can only lead on one application. An eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "The stated restrictions apply only to organisations acting as lead; academic institutions cannot lead this call (lead must be a UK SME) and can collaborate in any number of applications.",
+  "confidence": 0.9,
+  "notes": "Lead restricted to UK SMEs, so academic institutions can only join as funded Project Partners; a 30% collective research organisation cost share and a 70% single-partner cap both apply.",
+  "evidence_max_funding": "have a grant funding request of between £100,000 and £350,000",
+  "evidence_role": "academic institution",
+  "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 30% of the total eligible project costs",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-09-28T13:28:19+00:00"
+ },
+ {
   "competition_id": 2584,
   "max_funding_gbp": 250000,
   "max_funding_basis": "total_project_costs",
