@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T13:28:25+00:00",
+ "generated_at": "2026-09-29T12:32:07+00:00",
  "tables": {
   "competitions": {
    "rows": 229,
@@ -10,7 +10,7 @@
    "description": "Every milestone per competition, in page order"
   },
   "competition_changes": {
-   "rows": 14,
+   "rows": 17,
    "description": "Detected edits to open competitions (old vs new value)"
   },
   "competition_labels": {
