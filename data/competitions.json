@@ -2415,7 +2415,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £100,000 and £3 million.",
   "first_seen_at": "2026-07-10T12:00:22+00:00",
-  "last_scraped_at": "2026-09-29T12:30:17+00:00"
+  "last_scraped_at": "2026-09-30T15:44:40+00:00"
  },
  {
   "competition_id": 2500,
@@ -2467,7 +2467,7 @@
   "funding_type": "Loan",
   "project_size": "Loans can be between £100,000 and £5 million.",
   "first_seen_at": "2026-07-10T12:00:32+00:00",
-  "last_scraped_at": "2026-09-29T12:30:21+00:00"
+  "last_scraped_at": "2026-09-30T15:44:44+00:00"
  },
  {
   "competition_id": 2509,
@@ -2532,7 +2532,7 @@
   "funding_type": "Knowledge Transfer Partnership (KTP)",
   "project_size": "Applicants should develop projects that can be delivered within 24 months. Longer projects may be supported where applicants clearly justify the need for an extended duration.",
   "first_seen_at": "2026-09-17T13:53:54+00:00",
-  "last_scraped_at": "2026-09-29T12:30:24+00:00"
+  "last_scraped_at": "2026-09-30T15:44:47+00:00"
  },
  {
   "competition_id": 2517,
@@ -2584,7 +2584,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £1 million and £3.5 million.",
   "first_seen_at": "2026-07-10T12:00:51+00:00",
-  "last_scraped_at": "2026-09-29T12:30:28+00:00"
+  "last_scraped_at": "2026-09-30T15:44:51+00:00"
  },
  {
   "competition_id": 2525,
@@ -2610,7 +2610,7 @@
   "funding_type": "Grant",
   "project_size": "UK partners grant funding request can be between £100,000 and £900,000 per project.",
   "first_seen_at": "2026-09-17T13:54:03+00:00",
-  "last_scraped_at": "2026-09-29T12:30:32+00:00"
+  "last_scraped_at": "2026-09-30T15:44:54+00:00"
  },
  {
   "competition_id": 2527,
@@ -2623,7 +2623,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £1.5 million and £4 million.",
   "first_seen_at": "2026-09-17T13:54:06+00:00",
-  "last_scraped_at": "2026-09-29T12:30:36+00:00"
+  "last_scraped_at": "2026-09-30T15:44:58+00:00"
  },
  {
   "competition_id": 2529,
@@ -2662,20 +2662,20 @@
   "funding_type": "Grant",
   "project_size": "Your project’s grant funding request must be between £50,000 and £100,000.",
   "first_seen_at": "2026-09-17T13:54:16+00:00",
-  "last_scraped_at": "2026-09-29T12:30:39+00:00"
+  "last_scraped_at": "2026-09-30T15:45:01+00:00"
  },
  {
   "competition_id": 2536,
   "uuid": "2999eaf5-b86c-466d-88c0-00b362a50ac8",
   "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2536/overview/2999eaf5-b86c-466d-88c0-00b362a50ac8",
   "title": "Farming Futures R&D fund: Automation and Robotics Round 2",
-  "status": "open",
+  "status": "closed",
   "opens_date": "3 August 2026",
   "closes_date": "30 September 2026 11:00am",
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £500,000 and £2.5 million.",
   "first_seen_at": "2026-09-17T13:54:19+00:00",
-  "last_scraped_at": "2026-09-29T12:30:43+00:00"
+  "last_scraped_at": "2026-09-30T15:45:05+00:00"
  },
  {
   "competition_id": 2539,
@@ -2701,7 +2701,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £2.5 million and £20 million. Your project’s total eligible costs must be over £5 million.",
   "first_seen_at": "2026-09-17T13:54:25+00:00",
-  "last_scraped_at": "2026-09-29T12:30:47+00:00"
+  "last_scraped_at": "2026-09-30T15:45:08+00:00"
  },
  {
   "competition_id": 2542,
@@ -2714,7 +2714,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £750,000 and £2.5 million.",
   "first_seen_at": "2026-09-17T13:54:28+00:00",
-  "last_scraped_at": "2026-09-29T12:30:51+00:00"
+  "last_scraped_at": "2026-09-30T15:45:12+00:00"
  },
  {
   "competition_id": 2544,
@@ -2727,7 +2727,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total costs must be between £50,000 and £200,000.",
   "first_seen_at": "2026-09-17T13:54:32+00:00",
-  "last_scraped_at": "2026-09-29T12:30:54+00:00"
+  "last_scraped_at": "2026-09-30T15:45:15+00:00"
  },
  {
   "competition_id": 2546,
@@ -2740,7 +2740,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £200,000 and £750,000.",
   "first_seen_at": "2026-09-17T13:54:35+00:00",
-  "last_scraped_at": "2026-09-29T12:30:58+00:00"
+  "last_scraped_at": "2026-09-30T15:45:19+00:00"
  },
  {
   "competition_id": 2550,
@@ -2753,7 +2753,7 @@
   "funding_type": "Thirdparty",
   "project_size": "Your Discovery Phase Project must have a total requested funding of no more than £200,000 exclusive of VAT.",
   "first_seen_at": "2026-09-18T10:55:39+00:00",
-  "last_scraped_at": "2026-09-29T12:31:02+00:00"
+  "last_scraped_at": "2026-09-30T15:45:22+00:00"
  },
  {
   "competition_id": 2552,
@@ -2766,20 +2766,20 @@
   "funding_type": "Thirdparty",
   "project_size": "Your Discovery Phase Project must have a total requested funding of no more than £200,000 exclusive of VAT.",
   "first_seen_at": "2026-09-18T10:55:43+00:00",
-  "last_scraped_at": "2026-09-29T12:31:06+00:00"
+  "last_scraped_at": "2026-09-30T15:45:26+00:00"
  },
  {
   "competition_id": 2556,
   "uuid": "ff6d6e0a-92ee-4719-a0fb-2e4bc2aa9c4d",
   "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2556/overview/ff6d6e0a-92ee-4719-a0fb-2e4bc2aa9c4d",
   "title": "ADOPT Facilitator Support Grant: Round 11",
-  "status": "open",
+  "status": "closed",
   "opens_date": "20 August 2026",
   "closes_date": "30 September 2026 11:00am",
   "funding_type": "Grant",
   "project_size": "£2,500 will be awarded to successful applicants after their Full ADOPT Grant application has been sent for assessment.",
   "first_seen_at": "2026-09-17T13:54:38+00:00",
-  "last_scraped_at": "2026-09-29T12:31:09+00:00"
+  "last_scraped_at": "2026-09-30T15:45:29+00:00"
  },
  {
   "competition_id": 2557,
@@ -2805,7 +2805,7 @@
   "funding_type": "Grant",
   "project_size": "Your grant funding request in your application must be exactly £80,420. This includes £75,000 grant funding you can draw down against eligible costs and £5,420 towards Business Connect support that you will receive.",
   "first_seen_at": "2026-09-17T13:54:44+00:00",
-  "last_scraped_at": "2026-09-29T12:31:13+00:00"
+  "last_scraped_at": "2026-09-30T15:45:33+00:00"
  },
  {
   "competition_id": 2566,
@@ -2818,7 +2818,7 @@
   "funding_type": "Procurement",
   "project_size": "Phase 1 projects can range in size up to total costs of £200,000, inclusive of VAT.",
   "first_seen_at": "2026-09-17T13:54:47+00:00",
-  "last_scraped_at": "2026-09-29T12:31:17+00:00"
+  "last_scraped_at": "2026-09-30T15:45:36+00:00"
  },
  {
   "competition_id": 2567,
@@ -2831,7 +2831,7 @@
   "funding_type": "Investor Partnerships",
   "project_size": "Your project’s total costs will depend on your research category and must be between  £250,000 and £1 million for industrial research, and £500,000 and £2 million for experimental development.",
   "first_seen_at": "2026-09-17T13:54:51+00:00",
-  "last_scraped_at": "2026-09-29T12:31:20+00:00"
+  "last_scraped_at": "2026-09-30T15:45:40+00:00"
  },
  {
   "competition_id": 2568,
@@ -2844,7 +2844,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £1 million and £3 million.",
   "first_seen_at": "2026-09-17T13:54:54+00:00",
-  "last_scraped_at": "2026-09-29T12:31:24+00:00"
+  "last_scraped_at": "2026-09-30T15:45:43+00:00"
  },
  {
   "competition_id": 2569,
@@ -2857,7 +2857,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £500,000 and £1 million.",
   "first_seen_at": "2026-09-17T13:54:57+00:00",
-  "last_scraped_at": "2026-09-29T12:31:28+00:00"
+  "last_scraped_at": "2026-09-30T15:45:47+00:00"
  },
  {
   "competition_id": 2570,
@@ -2870,7 +2870,7 @@
   "funding_type": "Procurement",
   "project_size": "Projects can have total eligible project costs of between £40,000 and £80,000, inclusive of VAT.",
   "first_seen_at": "2026-09-25T11:32:57+00:00",
-  "last_scraped_at": "2026-09-29T12:31:31+00:00"
+  "last_scraped_at": "2026-09-30T15:45:50+00:00"
  },
  {
   "competition_id": 2571,
@@ -2883,7 +2883,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £70,000 and £500,000.",
   "first_seen_at": "2026-09-17T13:55:00+00:00",
-  "last_scraped_at": "2026-09-29T12:31:35+00:00"
+  "last_scraped_at": "2026-09-30T15:45:54+00:00"
  },
  {
   "competition_id": 2572,
@@ -2896,7 +2896,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £500,000 and £4 million.",
   "first_seen_at": "2026-09-17T13:55:03+00:00",
-  "last_scraped_at": "2026-09-29T12:31:39+00:00"
+  "last_scraped_at": "2026-09-30T15:45:57+00:00"
  },
  {
   "competition_id": 2573,
@@ -2909,20 +2909,20 @@
   "funding_type": "Procurement",
   "project_size": "Phase 1 projects can range in size up to total eligible costs of between £200,000 and £500,000 inclusive of VAT.",
   "first_seen_at": "2026-09-17T13:55:06+00:00",
-  "last_scraped_at": "2026-09-29T12:31:43+00:00"
+  "last_scraped_at": "2026-09-30T15:46:01+00:00"
  },
  {
   "competition_id": 2574,
   "uuid": "48cb1c09-fcef-4ae8-a700-d79db606fba8",
   "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2574/overview/48cb1c09-fcef-4ae8-a700-d79db606fba8",
   "title": "Ultra Long Duration Energy Storage Project Development Studies Relaunch",
-  "status": "open",
+  "status": "closed",
   "opens_date": "11 September 2026",
   "closes_date": "30 September 2026 11:00am",
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £350,000 and £700,000.",
   "first_seen_at": "2026-09-17T13:55:09+00:00",
-  "last_scraped_at": "2026-09-29T12:31:46+00:00"
+  "last_scraped_at": "2026-09-30T15:46:04+00:00"
  },
  {
   "competition_id": 2579,
@@ -2935,7 +2935,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £50,000 and £250,000.",
   "first_seen_at": "2026-09-19T10:38:37+00:00",
-  "last_scraped_at": "2026-09-29T12:31:50+00:00"
+  "last_scraped_at": "2026-09-30T15:46:08+00:00"
  },
  {
   "competition_id": 2582,
@@ -2948,7 +2948,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £50,000 and £150,000.",
   "first_seen_at": "2026-09-25T11:33:01+00:00",
-  "last_scraped_at": "2026-09-29T12:31:54+00:00"
+  "last_scraped_at": "2026-09-30T15:46:11+00:00"
  },
  {
   "competition_id": 2583,
@@ -2961,7 +2961,7 @@
   "funding_type": "Grant",
   "project_size": "UK partners grant funding request can be between £100,000 and £350,000 per project.",
   "first_seen_at": "2026-09-28T13:26:24+00:00",
-  "last_scraped_at": "2026-09-29T12:31:57+00:00"
+  "last_scraped_at": "2026-09-30T15:46:15+00:00"
  },
  {
   "competition_id": 2584,
@@ -2974,6 +2974,19 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £150,000 and £250,000.",
   "first_seen_at": "2026-09-25T11:33:04+00:00",
-  "last_scraped_at": "2026-09-29T12:32:01+00:00"
+  "last_scraped_at": "2026-09-30T15:46:18+00:00"
+ },
+ {
+  "competition_id": 2587,
+  "uuid": "aafc825c-421e-47ea-bd56-d5d1cd50e513",
+  "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2587/overview/aafc825c-421e-47ea-bd56-d5d1cd50e513",
+  "title": "CfI: Battery innovation for dual use & defence Phase 1",
+  "status": "open",
+  "opens_date": "28 September 2026",
+  "closes_date": "4 November 2026 11:00am",
+  "funding_type": "Procurement",
+  "project_size": "Phase 1 projects can range in size up to total eligible costs between £20,000 and £50,000, inclusive of VAT.",
+  "first_seen_at": "2026-09-30T15:44:40+00:00",
+  "last_scraped_at": "2026-09-30T15:46:22+00:00"
  }
 ]

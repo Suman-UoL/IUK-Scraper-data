@@ -134,5 +134,37 @@
   "old_value": "6 June 2026\nCompetition opens\nNo submission deadline\nThis is open-ended competition and applications can be submitted at any time.",
   "new_value": "6 June 2026\nCompetition opens\n9 October 2026 11:00am\nCompetition closes",
   "detected_at": "2026-09-29T12:30:21+00:00"
+ },
+ {
+  "id": 18,
+  "competition_id": 2536,
+  "field": "status",
+  "old_value": "open",
+  "new_value": "closed",
+  "detected_at": "2026-09-30T15:45:05+00:00"
+ },
+ {
+  "id": 19,
+  "competition_id": 2556,
+  "field": "status",
+  "old_value": "open",
+  "new_value": "closed",
+  "detected_at": "2026-09-30T15:45:29+00:00"
+ },
+ {
+  "id": 20,
+  "competition_id": 2559,
+  "field": "section:dates",
+  "old_value": "26 August 2026\nCompetition opens\n10 September 2026\nOnline briefing event:\nwatch the recording\nBriefing slides are available to download from Supporting Information\n7 October 2026 11:00am\nCompetition closes\n6 November 2026\nInvite to interview pitch\n30 November 2026\nInterview pitch panel start\n7 December 2026\nInterview pitch panel end\n18 December 2026\nApplicants notified\n1 March 2027\nProject start by",
+  "new_value": "26 August 2026\nCompetition opens\n10 September 2026\nOnline briefing event:\nwatch the recording\nBriefing slides are available to download from Supporting Information\n7 October 2026 11:00am\nCompetition closes\n29 October 2026\nApplicants notified\n6 November 2026\nInvite to interview pitch\n30 November 2026\nInterview pitch panel start\n7 December 2026\nInterview pitch panel end\n1 March 2027\nProject start by",
+  "detected_at": "2026-09-30T15:45:33+00:00"
+ },
+ {
+  "id": 21,
+  "competition_id": 2574,
+  "field": "status",
+  "old_value": "open",
+  "new_value": "closed",
+  "detected_at": "2026-09-30T15:46:04+00:00"
  }
 ]

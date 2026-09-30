@@ -1372,5 +1372,11 @@
   "payload_json": "{\"max_funding_gbp\": 250000, \"max_funding_basis\": \"total_project_costs\", \"academic_role\": \"Not eligible\", \"research_participation_cap_pct\": null, \"single_partner_cap_pct\": null, \"demand_management\": \"An SME can only submit on one application. Any further applications by the same organisation will be made ineligible.\", \"demand_management_flag\": \"Green\", \"demand_management_reason\": \"Restriction applies only to SME lead applicants; academic institutions have no eligible route on this call.\", \"evidence\": {\"max_funding\": \"have total costs between £150,000 and £250,000\", \"academic_role\": \"To work alone your organisation must be a UK registered micro, small or medium sized enterprise (SME).\", \"research_cap\": null}, \"confidence\": 0.9, \"notes\": \"Lead restricted to SMEs, subcontractors not allowed, and no Partner/research organisation route mentioned, so academics have no eligible route.\", \"max_academic_funding_gbp\": null, \"usage\": {\"in\": 6413, \"out\": 310}}",
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-09-25T11:35:14+00:00"
+ },
+ {
+  "competition_id": 2587,
+  "payload_json": "{\"max_funding_gbp\": 50000, \"max_funding_basis\": \"total_project_costs\", \"academic_role\": \"Lead\", \"research_participation_cap_pct\": null, \"single_partner_cap_pct\": null, \"demand_management\": null, \"demand_management_flag\": \"Green\", \"demand_management_reason\": \"No 'Number of applications' section or restriction stated on this page\", \"evidence\": {\"max_funding\": \"have total costs of between £20,000 and £50,000, inclusive of VAT\", \"academic_role\": \"To lead a project, you can: be an organisation of any size, including those based in the EU, EEA or internationally\", \"research_cap\": null}, \"confidence\": 0.85, \"notes\": \"Any organisation may lead and use subcontractors for specialist skills; no research organisation participation cap or partner cap is stated on this page.\", \"max_academic_funding_gbp\": 50000, \"usage\": {\"in\": 5770, \"out\": 476}}",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-09-30T15:46:28+00:00"
  }
 ]

@@ -4349,5 +4349,24 @@
   "evidence_cap": null,
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-09-25T11:35:14+00:00"
+ },
+ {
+  "competition_id": 2587,
+  "max_funding_gbp": 50000,
+  "max_funding_basis": "total_project_costs",
+  "academic_role": "Lead",
+  "research_participation_cap_pct": null,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": 50000,
+  "demand_management": null,
+  "demand_management_flag": "Green",
+  "demand_management_reason": "No 'Number of applications' section or restriction stated on this page",
+  "confidence": 0.85,
+  "notes": "Any organisation may lead and use subcontractors for specialist skills; no research organisation participation cap or partner cap is stated on this page.",
+  "evidence_max_funding": "have total costs of between £20,000 and £50,000, inclusive of VAT",
+  "evidence_role": "To lead a project, you can: be an organisation of any size, including those based in the EU, EEA or internationally",
+  "evidence_cap": null,
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-09-30T15:46:28+00:00"
  }
 ]
