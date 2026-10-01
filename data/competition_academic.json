@@ -4294,6 +4294,25 @@
   "extracted_at": "2026-09-22T17:41:24+00:00"
  },
  {
+  "competition_id": 2580,
+  "max_funding_gbp": 2000000,
+  "max_funding_basis": "grant",
+  "academic_role": "Subcontractor",
+  "research_participation_cap_pct": null,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": null,
+  "demand_management": "An SME can only submit one application into this round of the competition.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "The one-application limit applies to the SME lead applicant; academic_role here is Subcontractor, not SME lead, so it is unaffected.",
+  "confidence": 0.85,
+  "notes": "Competition is open only to single SME applicants; universities cannot lead or partner, but may act as subcontractors.",
+  "evidence_max_funding": "your total grant funding request must be between £250,000 and £2 million",
+  "evidence_role": "Subcontractors are allowed in this competition.",
+  "evidence_cap": null,
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-01T12:51:38+00:00"
+ },
+ {
   "competition_id": 2582,
   "max_funding_gbp": 150000,
   "max_funding_basis": "total_project_costs",
