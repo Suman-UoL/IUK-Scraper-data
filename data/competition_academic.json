@@ -4387,5 +4387,24 @@
   "evidence_cap": null,
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-09-30T15:46:28+00:00"
+ },
+ {
+  "competition_id": 2588,
+  "max_funding_gbp": 4000000,
+  "max_funding_basis": "grant",
+  "academic_role": "Lead",
+  "research_participation_cap_pct": 100,
+  "single_partner_cap_pct": 70,
+  "max_academic_funding_gbp": 4000000,
+  "demand_management": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible. An eligible organisation that is not leading can collaborate in one further application.",
+  "demand_management_flag": "Red",
+  "demand_management_reason": "Academic institutions can lead this call, and lead applications are explicitly capped at one per organisation.",
+  "confidence": 0.95,
+  "notes": "No total project/eligible cost range is stated separately from the grant funding request, so the grant figure (£4 million) is used per instructions.",
+  "evidence_max_funding": "have a grant funding request of between £3.8 million and £4 million",
+  "evidence_role": "your organisation must be a UK registered research and technology organisation (RTO) or academic institution",
+  "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 100% of the total eligible project costs",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-02T12:15:02+00:00"
  }
 ]
