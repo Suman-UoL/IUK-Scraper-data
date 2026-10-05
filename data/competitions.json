@@ -2415,7 +2415,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £100,000 and £3 million.",
   "first_seen_at": "2026-07-10T12:00:22+00:00",
-  "last_scraped_at": "2026-10-04T12:05:11+00:00"
+  "last_scraped_at": "2026-10-05T14:09:28+00:00"
  },
  {
   "competition_id": 2500,
@@ -2467,7 +2467,7 @@
   "funding_type": "Loan",
   "project_size": "Loans can be between £100,000 and £5 million.",
   "first_seen_at": "2026-07-10T12:00:32+00:00",
-  "last_scraped_at": "2026-10-04T12:05:15+00:00"
+  "last_scraped_at": "2026-10-05T14:09:32+00:00"
  },
  {
   "competition_id": 2509,
@@ -2532,7 +2532,7 @@
   "funding_type": "Knowledge Transfer Partnership (KTP)",
   "project_size": "Applicants should develop projects that can be delivered within 24 months. Longer projects may be supported where applicants clearly justify the need for an extended duration.",
   "first_seen_at": "2026-09-17T13:53:54+00:00",
-  "last_scraped_at": "2026-10-04T12:05:19+00:00"
+  "last_scraped_at": "2026-10-05T14:09:35+00:00"
  },
  {
   "competition_id": 2517,
@@ -2610,7 +2610,7 @@
   "funding_type": "Grant",
   "project_size": "UK partners grant funding request can be between £100,000 and £900,000 per project.",
   "first_seen_at": "2026-09-17T13:54:03+00:00",
-  "last_scraped_at": "2026-10-04T12:05:22+00:00"
+  "last_scraped_at": "2026-10-05T14:09:39+00:00"
  },
  {
   "competition_id": 2527,
@@ -2623,7 +2623,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £1.5 million and £4 million.",
   "first_seen_at": "2026-09-17T13:54:06+00:00",
-  "last_scraped_at": "2026-10-04T12:05:26+00:00"
+  "last_scraped_at": "2026-10-05T14:09:43+00:00"
  },
  {
   "competition_id": 2529,
@@ -2662,7 +2662,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s grant funding request must be between £50,000 and £100,000.",
   "first_seen_at": "2026-09-17T13:54:16+00:00",
-  "last_scraped_at": "2026-10-04T12:05:30+00:00"
+  "last_scraped_at": "2026-10-05T14:09:46+00:00"
  },
  {
   "competition_id": 2536,
@@ -2701,7 +2701,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £2.5 million and £20 million. Your project’s total eligible costs must be over £5 million.",
   "first_seen_at": "2026-09-17T13:54:25+00:00",
-  "last_scraped_at": "2026-10-04T12:05:34+00:00"
+  "last_scraped_at": "2026-10-05T14:09:50+00:00"
  },
  {
   "competition_id": 2542,
@@ -2714,7 +2714,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £750,000 and £2.5 million.",
   "first_seen_at": "2026-09-17T13:54:28+00:00",
-  "last_scraped_at": "2026-10-04T12:05:38+00:00"
+  "last_scraped_at": "2026-10-05T14:09:54+00:00"
  },
  {
   "competition_id": 2544,
@@ -2727,7 +2727,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total costs must be between £50,000 and £200,000.",
   "first_seen_at": "2026-09-17T13:54:32+00:00",
-  "last_scraped_at": "2026-10-04T12:05:41+00:00"
+  "last_scraped_at": "2026-10-05T14:09:58+00:00"
  },
  {
   "competition_id": 2546,
@@ -2740,7 +2740,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £200,000 and £750,000.",
   "first_seen_at": "2026-09-17T13:54:35+00:00",
-  "last_scraped_at": "2026-10-04T12:05:45+00:00"
+  "last_scraped_at": "2026-10-05T14:10:01+00:00"
  },
  {
   "competition_id": 2550,
@@ -2753,7 +2753,7 @@
   "funding_type": "Thirdparty",
   "project_size": "Your Discovery Phase Project must have a total requested funding of no more than £200,000 exclusive of VAT.",
   "first_seen_at": "2026-09-18T10:55:39+00:00",
-  "last_scraped_at": "2026-10-04T12:05:49+00:00"
+  "last_scraped_at": "2026-10-05T14:10:05+00:00"
  },
  {
   "competition_id": 2552,
@@ -2766,7 +2766,7 @@
   "funding_type": "Thirdparty",
   "project_size": "Your Discovery Phase Project must have a total requested funding of no more than £200,000 exclusive of VAT.",
   "first_seen_at": "2026-09-18T10:55:43+00:00",
-  "last_scraped_at": "2026-10-04T12:05:52+00:00"
+  "last_scraped_at": "2026-10-05T14:10:09+00:00"
  },
  {
   "competition_id": 2556,
@@ -2805,7 +2805,20 @@
   "funding_type": "Grant",
   "project_size": "Your grant funding request in your application must be exactly £80,420. This includes £75,000 grant funding you can draw down against eligible costs and £5,420 towards Business Connect support that you will receive.",
   "first_seen_at": "2026-09-17T13:54:44+00:00",
-  "last_scraped_at": "2026-10-04T12:05:56+00:00"
+  "last_scraped_at": "2026-10-05T14:10:12+00:00"
+ },
+ {
+  "competition_id": 2560,
+  "uuid": "45acacd5-746b-46ee-8051-d764f929cca3",
+  "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2560/overview/45acacd5-746b-46ee-8051-d764f929cca3",
+  "title": "Sustainable Medicines Manufacturing Innovation: CR&D Round 2",
+  "status": "open",
+  "opens_date": "5 October 2026",
+  "closes_date": "2 December 2026 11:00am",
+  "funding_type": "Grant",
+  "project_size": "Your project’s total eligible grant funding request must be between £500,000 and £1 million.",
+  "first_seen_at": "2026-10-05T14:09:16+00:00",
+  "last_scraped_at": "2026-10-05T14:10:16+00:00"
  },
  {
   "competition_id": 2566,
@@ -2818,7 +2831,7 @@
   "funding_type": "Procurement",
   "project_size": "Phase 1 projects can range in size up to total costs of £200,000, inclusive of VAT.",
   "first_seen_at": "2026-09-17T13:54:47+00:00",
-  "last_scraped_at": "2026-10-04T12:06:00+00:00"
+  "last_scraped_at": "2026-10-05T14:10:20+00:00"
  },
  {
   "competition_id": 2567,
@@ -2831,7 +2844,7 @@
   "funding_type": "Investor Partnerships",
   "project_size": "Your project’s total costs will depend on your research category and must be between  £250,000 and £1 million for industrial research, and £500,000 and £2 million for experimental development.",
   "first_seen_at": "2026-09-17T13:54:51+00:00",
-  "last_scraped_at": "2026-10-04T12:06:04+00:00"
+  "last_scraped_at": "2026-10-05T14:10:23+00:00"
  },
  {
   "competition_id": 2568,
@@ -2844,7 +2857,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £1 million and £3 million.",
   "first_seen_at": "2026-09-17T13:54:54+00:00",
-  "last_scraped_at": "2026-10-04T12:06:07+00:00"
+  "last_scraped_at": "2026-10-05T14:10:27+00:00"
  },
  {
   "competition_id": 2569,
@@ -2857,7 +2870,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £500,000 and £1 million.",
   "first_seen_at": "2026-09-17T13:54:57+00:00",
-  "last_scraped_at": "2026-10-04T12:06:11+00:00"
+  "last_scraped_at": "2026-10-05T14:10:31+00:00"
  },
  {
   "competition_id": 2570,
@@ -2870,7 +2883,7 @@
   "funding_type": "Procurement",
   "project_size": "Projects can have total eligible project costs of between £40,000 and £80,000, inclusive of VAT.",
   "first_seen_at": "2026-09-25T11:32:57+00:00",
-  "last_scraped_at": "2026-10-04T12:06:15+00:00"
+  "last_scraped_at": "2026-10-05T14:10:35+00:00"
  },
  {
   "competition_id": 2571,
@@ -2883,7 +2896,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £70,000 and £500,000.",
   "first_seen_at": "2026-09-17T13:55:00+00:00",
-  "last_scraped_at": "2026-10-04T12:06:18+00:00"
+  "last_scraped_at": "2026-10-05T14:10:38+00:00"
  },
  {
   "competition_id": 2572,
@@ -2896,7 +2909,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £500,000 and £4 million.",
   "first_seen_at": "2026-09-17T13:55:03+00:00",
-  "last_scraped_at": "2026-10-04T12:06:22+00:00"
+  "last_scraped_at": "2026-10-05T14:10:42+00:00"
  },
  {
   "competition_id": 2573,
@@ -2909,7 +2922,7 @@
   "funding_type": "Procurement",
   "project_size": "Phase 1 projects can range in size up to total eligible costs of between £200,000 and £500,000 inclusive of VAT.",
   "first_seen_at": "2026-09-17T13:55:06+00:00",
-  "last_scraped_at": "2026-10-04T12:06:26+00:00"
+  "last_scraped_at": "2026-10-05T14:10:46+00:00"
  },
  {
   "competition_id": 2574,
@@ -2935,7 +2948,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £50,000 and £250,000.",
   "first_seen_at": "2026-09-19T10:38:37+00:00",
-  "last_scraped_at": "2026-10-04T12:06:29+00:00"
+  "last_scraped_at": "2026-10-05T14:10:49+00:00"
  },
  {
   "competition_id": 2580,
@@ -2948,7 +2961,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total grant funding request must be between £250,000 and £2 million.",
   "first_seen_at": "2026-10-01T12:49:52+00:00",
-  "last_scraped_at": "2026-10-04T12:06:33+00:00"
+  "last_scraped_at": "2026-10-05T14:10:53+00:00"
  },
  {
   "competition_id": 2582,
@@ -2961,7 +2974,7 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £50,000 and £150,000.",
   "first_seen_at": "2026-09-25T11:33:01+00:00",
-  "last_scraped_at": "2026-10-04T12:06:37+00:00"
+  "last_scraped_at": "2026-10-05T14:10:57+00:00"
  },
  {
   "competition_id": 2583,
@@ -2974,7 +2987,7 @@
   "funding_type": "Grant",
   "project_size": "UK partners grant funding request can be between £100,000 and £350,000 per project.",
   "first_seen_at": "2026-09-28T13:26:24+00:00",
-  "last_scraped_at": "2026-10-04T12:06:41+00:00"
+  "last_scraped_at": "2026-10-05T14:11:00+00:00"
  },
  {
   "competition_id": 2584,
@@ -2987,7 +3000,20 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible costs must be between £150,000 and £250,000.",
   "first_seen_at": "2026-09-25T11:33:04+00:00",
-  "last_scraped_at": "2026-10-04T12:06:44+00:00"
+  "last_scraped_at": "2026-10-05T14:11:04+00:00"
+ },
+ {
+  "competition_id": 2586,
+  "uuid": "d9e61ae4-6e56-4f38-9206-5d91ef98c916",
+  "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2586/overview/d9e61ae4-6e56-4f38-9206-5d91ef98c916",
+  "title": "Eureka collaborative R&D: Globalstars Japan 2027",
+  "status": "open",
+  "opens_date": "7 October 2026",
+  "closes_date": "20 January 2027 11:00am",
+  "funding_type": "Grant",
+  "project_size": "UK applicants can apply for total grant of up to £600,000 for each project.",
+  "first_seen_at": "2026-10-05T14:09:20+00:00",
+  "last_scraped_at": "2026-10-05T14:11:08+00:00"
  },
  {
   "competition_id": 2587,
@@ -3000,7 +3026,7 @@
   "funding_type": "Procurement",
   "project_size": "Phase 1 projects can range in size up to total eligible costs between £20,000 and £50,000, inclusive of VAT.",
   "first_seen_at": "2026-09-30T15:44:40+00:00",
-  "last_scraped_at": "2026-10-04T12:06:48+00:00"
+  "last_scraped_at": "2026-10-05T14:11:11+00:00"
  },
  {
   "competition_id": 2588,
@@ -3013,6 +3039,32 @@
   "funding_type": "Grant",
   "project_size": "Your project’s total eligible grant funding request must be between £3.8 million and £4 million.",
   "first_seen_at": "2026-10-02T12:13:14+00:00",
-  "last_scraped_at": "2026-10-04T12:06:52+00:00"
+  "last_scraped_at": "2026-10-05T14:11:15+00:00"
+ },
+ {
+  "competition_id": 2591,
+  "uuid": "b66dd413-9894-4fc4-a6c9-cced53367568",
+  "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2591/overview/b66dd413-9894-4fc4-a6c9-cced53367568",
+  "title": "ADOPT Facilitator Support Grant: Round 12",
+  "status": "open",
+  "opens_date": "1 October 2026",
+  "closes_date": "11 November 2026 11:00am",
+  "funding_type": "Grant",
+  "project_size": "£2,500 will be awarded to successful applicants after their Full ADOPT Grant application has been sent for assessment.",
+  "first_seen_at": "2026-10-05T14:09:24+00:00",
+  "last_scraped_at": "2026-10-05T14:11:19+00:00"
+ },
+ {
+  "competition_id": 2595,
+  "uuid": "f2b849f6-0fb3-4012-be1b-a41813c93085",
+  "url": "https://apply-for-innovation-funding.service.gov.uk/competition/2595/overview/f2b849f6-0fb3-4012-be1b-a41813c93085",
+  "title": "Investor Partnerships – Battery Innovation Programme",
+  "status": "open",
+  "opens_date": "5 October 2026",
+  "closes_date": "25 November 2026 11:00am",
+  "funding_type": "Grant",
+  "project_size": "Your project’s total costs will depend on your research category and must be between £50,000 and £300,000 for feasibility studies, £100,000 and £1 million for industrial research, £250,000 and £2 million for experimental development.",
+  "first_seen_at": "2026-10-05T14:09:27+00:00",
+  "last_scraped_at": "2026-10-05T14:11:23+00:00"
  }
 ]
