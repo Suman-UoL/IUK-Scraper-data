@@ -9355,7 +9355,7 @@
  },
  {
   "competition_id": 2587,
-  "milestone_label": "Briefing event: join here at 2pm (Briefing slides will be available to download from supporting information after the event)",
+  "milestone_label": "Live briefing event: watch the recording Briefing slides are now available to download from Supporting Information.",
   "milestone_date": "1 October 2026",
   "position": 1
  },
@@ -9385,7 +9385,7 @@
  },
  {
   "competition_id": 2588,
-  "milestone_label": "Online briefing event: join at 11.30am (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_label": "Online briefing event: join at 1:00pm (Briefing slides will be available to download from Supporting Information after the event)",
   "milestone_date": "6 October 2026",
   "position": 1
  },
@@ -9484,5 +9484,113 @@
   "milestone_label": "Project start by",
   "milestone_date": "1 May 2027",
   "position": 4
+ },
+ {
+  "competition_id": 2597,
+  "milestone_label": "Competition opens",
+  "milestone_date": "21 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2597,
+  "milestone_label": "Collaborative event: register to attend",
+  "milestone_date": "26 October 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2597,
+  "milestone_label": "Online briefing event: join at 11am (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "27 October 2026",
+  "position": 2
+ },
+ {
+  "competition_id": 2597,
+  "milestone_label": "Competition closes",
+  "milestone_date": "8 December 2026 11:00am",
+  "position": 3
+ },
+ {
+  "competition_id": 2597,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "1 February 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2597,
+  "milestone_label": "Project start by",
+  "milestone_date": "1 April 2027",
+  "position": 5
+ },
+ {
+  "competition_id": 2598,
+  "milestone_label": "Competition opens",
+  "milestone_date": "21 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2598,
+  "milestone_label": "Collaborative event: register to attend",
+  "milestone_date": "26 October 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2598,
+  "milestone_label": "Online briefing event: join at 11am (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "27 October 2026",
+  "position": 2
+ },
+ {
+  "competition_id": 2598,
+  "milestone_label": "Competition closes",
+  "milestone_date": "8 December 2026 11:00am",
+  "position": 3
+ },
+ {
+  "competition_id": 2598,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "1 February 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2598,
+  "milestone_label": "Project start by",
+  "milestone_date": "1 April 2027",
+  "position": 5
+ },
+ {
+  "competition_id": 2599,
+  "milestone_label": "Competition opens",
+  "milestone_date": "21 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2599,
+  "milestone_label": "Collaborative event: register to attend",
+  "milestone_date": "26 October 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2599,
+  "milestone_label": "Online briefing event: join at 11am (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "27 October 2026",
+  "position": 2
+ },
+ {
+  "competition_id": 2599,
+  "milestone_label": "Competition closes",
+  "milestone_date": "8 December 2026 11:00am",
+  "position": 3
+ },
+ {
+  "competition_id": 2599,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "1 February 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2599,
+  "milestone_label": "Project start by",
+  "milestone_date": "1 April 2027",
+  "position": 5
  }
 ]
