@@ -4539,5 +4539,24 @@
   "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 30% of the total eligible project costs",
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-06T13:09:21+00:00"
+ },
+ {
+  "competition_id": 2600,
+  "max_funding_gbp": 315000,
+  "max_funding_basis": "grant",
+  "academic_role": "Not eligible",
+  "research_participation_cap_pct": null,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": null,
+  "demand_management": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "Restriction only applies to the Lead role, and academic_role here is Not eligible, so it does not affect universities.",
+  "confidence": 0.9,
+  "notes": "Lead must be a UK SME, subcontractors are explicitly disallowed, and no Partner route for research organisations is mentioned, so academic institutions have no eligible route into this competition.",
+  "evidence_max_funding": "This allows public bodies to award up to £315,000 to an enterprise in a 3-year rolling financial period.",
+  "evidence_role": "To work alone your organisation must be a UK registered micro, small or medium sized enterprise (SME). Subcontractors are not allowed in this competition.",
+  "evidence_cap": null,
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-07T13:03:24+00:00"
  }
 ]
