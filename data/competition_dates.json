@@ -8767,7 +8767,7 @@
  },
  {
   "competition_id": 2560,
-  "milestone_label": "Online briefing event: register to attend (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_label": "Online briefing event: watch the recording Briefing slides are available to download from Supporting Information.",
   "milestone_date": "13 October 2026",
   "position": 1
  },
@@ -9319,7 +9319,7 @@
  },
  {
   "competition_id": 2586,
-  "milestone_label": "Online briefing event: join at 2pm (Briefing slides will be available to download from supporting information after the event)",
+  "milestone_label": "Online briefing event: watch the recording Briefing slides are available to download from Supporting Information",
   "milestone_date": "13 October 2026",
   "position": 1
  },
@@ -9643,7 +9643,7 @@
  },
  {
   "competition_id": 2600,
-  "milestone_label": "Live briefing event: register to attend at 1pm (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_label": "Live briefing event: watch the recording Briefing slides are now available to download from Supporting Information.",
   "milestone_date": "12 October 2026",
   "position": 1
  },
@@ -9682,5 +9682,65 @@
   "milestone_label": "Project start by",
   "milestone_date": "1 March 2027",
   "position": 7
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Competition opens",
+  "milestone_date": "21 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Online briefing event at 10am: register to attend (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "23 October 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Drop in session: join at 11am",
+  "milestone_date": "6 November 2026",
+  "position": 2
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Drop in session: join at 11am",
+  "milestone_date": "19 November 2026",
+  "position": 3
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Competition closes",
+  "milestone_date": "2 December 2026 11:00am",
+  "position": 4
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Invite to interview",
+  "milestone_date": "28 January 2027",
+  "position": 5
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Interview start",
+  "milestone_date": "24 February 2027",
+  "position": 6
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Interview end",
+  "milestone_date": "26 February 2027",
+  "position": 7
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "10 March 2027",
+  "position": 8
+ },
+ {
+  "competition_id": 2602,
+  "milestone_label": "Project start from",
+  "milestone_date": "1 June 2027",
+  "position": 9
  }
 ]

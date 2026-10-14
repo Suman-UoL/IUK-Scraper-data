@@ -4577,5 +4577,24 @@
   "evidence_cap": null,
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-07T13:03:24+00:00"
+ },
+ {
+  "competition_id": 2602,
+  "max_funding_gbp": 54400,
+  "max_funding_basis": "grant",
+  "academic_role": "Subcontractor",
+  "research_participation_cap_pct": null,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": null,
+  "demand_management": "A business of any size can only apply and receive funding once in this first stage competition.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "Restriction applies only to business Lead applicants; academic_role here is Subcontractor, not Lead.",
+  "confidence": 0.85,
+  "notes": "Lead must be a UK registered business and the competition is single-applicant only, so no Partner route exists; universities can only participate as subcontractors.",
+  "evidence_max_funding": "your project must: have a grant funding request of £54,400",
+  "evidence_role": "Subcontractors are allowed in this competition.",
+  "evidence_cap": null,
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-14T11:34:24+00:00"
  }
 ]
