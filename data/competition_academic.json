@@ -4596,5 +4596,24 @@
   "evidence_cap": null,
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-14T11:34:24+00:00"
+ },
+ {
+  "competition_id": 2605,
+  "max_funding_gbp": null,
+  "max_funding_basis": null,
+  "academic_role": "Lead",
+  "research_participation_cap_pct": null,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": null,
+  "demand_management": "Each business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "The only stated limit applies to business partners; knowledge bases (academic institutions, who lead) can collaborate with any number of business partners.",
+  "confidence": 0.9,
+  "notes": "No total project cost or grant cap figure is given; funding is described only as a percentage (50%/67%) of eligible costs, so max_funding_gbp is null.",
+  "evidence_max_funding": null,
+  "evidence_role": "The knowledge base partner must lead the project",
+  "evidence_cap": null,
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-19T12:44:28+00:00"
  }
 ]

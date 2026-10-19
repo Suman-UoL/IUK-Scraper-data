@@ -1450,5 +1450,11 @@
   "payload_json": "{\"max_funding_gbp\": 54400, \"max_funding_basis\": \"grant\", \"academic_role\": \"Subcontractor\", \"research_participation_cap_pct\": null, \"single_partner_cap_pct\": null, \"demand_management\": \"A business of any size can only apply and receive funding once in this first stage competition.\", \"demand_management_flag\": \"Green\", \"demand_management_reason\": \"Restriction applies only to business Lead applicants; academic_role here is Subcontractor, not Lead.\", \"evidence\": {\"max_funding\": \"your project must: have a grant funding request of £54,400\", \"academic_role\": \"Subcontractors are allowed in this competition.\", \"research_cap\": null}, \"confidence\": 0.85, \"notes\": \"Lead must be a UK registered business and the competition is single-applicant only, so no Partner route exists; universities can only participate as subcontractors.\", \"max_academic_funding_gbp\": null, \"usage\": {\"in\": 7203, \"out\": 862}}",
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-14T11:34:24+00:00"
+ },
+ {
+  "competition_id": 2605,
+  "payload_json": "{\"max_funding_gbp\": null, \"max_funding_basis\": null, \"academic_role\": \"Lead\", \"research_participation_cap_pct\": null, \"single_partner_cap_pct\": null, \"demand_management\": \"Each business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\", \"demand_management_flag\": \"Green\", \"demand_management_reason\": \"The only stated limit applies to business partners; knowledge bases (academic institutions, who lead) can collaborate with any number of business partners.\", \"evidence\": {\"max_funding\": null, \"academic_role\": \"The knowledge base partner must lead the project\", \"research_cap\": null}, \"confidence\": 0.9, \"notes\": \"No total project cost or grant cap figure is given; funding is described only as a percentage (50%/67%) of eligible costs, so max_funding_gbp is null.\", \"max_academic_funding_gbp\": null, \"usage\": {\"in\": 8192, \"out\": 778}}",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-19T12:44:28+00:00"
  }
 ]

@@ -9742,5 +9742,29 @@
   "milestone_label": "Project start from",
   "milestone_date": "1 June 2027",
   "position": 9
+ },
+ {
+  "competition_id": 2605,
+  "milestone_label": "Competition opens",
+  "milestone_date": "19 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2605,
+  "milestone_label": "Competition closes",
+  "milestone_date": "27 January 2027 11:00am",
+  "position": 1
+ },
+ {
+  "competition_id": 2605,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "25 March 2027",
+  "position": 2
+ },
+ {
+  "competition_id": 2605,
+  "milestone_label": "Feedback",
+  "milestone_date": "1 April 2027",
+  "position": 3
  }
 ]
