@@ -4634,5 +4634,43 @@
   "evidence_cap": null,
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-19T12:44:28+00:00"
+ },
+ {
+  "competition_id": 2606,
+  "max_funding_gbp": 5000000,
+  "max_funding_basis": "grant",
+  "academic_role": "Lead",
+  "research_participation_cap_pct": 100,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": 5000000,
+  "demand_management": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.",
+  "demand_management_flag": "Red",
+  "demand_management_reason": "Restricts an organisation to leading only one application, and academic_role on this call is Lead.",
+  "confidence": 0.9,
+  "notes": "No total project/eligible cost range stated, so grant funding request upper bound (£5m) used; single partner cap is a monetary (£3m) not percentage limit, so left null.",
+  "evidence_max_funding": "have total eligible grant funding request between £2.5 million and £5 million",
+  "evidence_role": "academic institution, provided you can demonstrate appropriate commercialisation expertise within the consortia",
+  "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 100% of the total eligible project costs",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-26T12:38:11+00:00"
+ },
+ {
+  "competition_id": 2608,
+  "max_funding_gbp": 750000,
+  "max_funding_basis": "grant",
+  "academic_role": "Partner",
+  "research_participation_cap_pct": 30,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": 225000,
+  "demand_management": "An eligible organisation can only lead on one application... if not leading, can collaborate in any number of applications.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "The only restriction applies to the lead role, which academic institutions cannot hold; collaborators face no limit on number of applications.",
+  "confidence": 0.95,
+  "notes": "Academic institutions are barred from leading but are explicitly eligible as funded project team members (Partners), with a 30% collective research organisation cost-share cap.",
+  "evidence_max_funding": "have total eligible grant funding request of between £200,000 and £750,000",
+  "evidence_role": "Academic institutions cannot lead or work alone.",
+  "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 30% of the total eligible project costs",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-26T12:38:19+00:00"
  }
 ]

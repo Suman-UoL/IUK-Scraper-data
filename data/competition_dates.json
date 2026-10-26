@@ -9820,5 +9820,95 @@
   "milestone_label": "Feedback",
   "milestone_date": "1 April 2027",
   "position": 3
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Competition opens",
+  "milestone_date": "23 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Online briefing event: register to attend (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "28 October 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Surgery session with Innovate UK Business Connect 11am: register to attend",
+  "milestone_date": "2 November 2026",
+  "position": 2
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Competition closes",
+  "milestone_date": "13 January 2027 11:00am",
+  "position": 3
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Invite to interview",
+  "milestone_date": "12 February 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Interview panel starts",
+  "milestone_date": "15 March 2027",
+  "position": 5
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Interview panel ends",
+  "milestone_date": "18 March 2027",
+  "position": 6
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "24 March 2027",
+  "position": 7
+ },
+ {
+  "competition_id": 2606,
+  "milestone_label": "Project start on",
+  "milestone_date": "1 May 2027",
+  "position": 8
+ },
+ {
+  "competition_id": 2608,
+  "milestone_label": "Competition opens",
+  "milestone_date": "23 October 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2608,
+  "milestone_label": "Online briefing event: register to attend (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "28 October 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2608,
+  "milestone_label": "Surgery session with Innovate UK Business Connect at 11am: register to attend",
+  "milestone_date": "5 November 2026",
+  "position": 2
+ },
+ {
+  "competition_id": 2608,
+  "milestone_label": "Competition closes",
+  "milestone_date": "13 January 2027 11:00am",
+  "position": 3
+ },
+ {
+  "competition_id": 2608,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "13 February 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2608,
+  "milestone_label": "Project start by",
+  "milestone_date": "1 May 2027",
+  "position": 5
  }
 ]
