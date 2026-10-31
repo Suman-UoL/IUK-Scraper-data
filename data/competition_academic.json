@@ -4672,5 +4672,24 @@
   "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 30% of the total eligible project costs",
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-26T12:38:19+00:00"
+ },
+ {
+  "competition_id": 2616,
+  "max_funding_gbp": 2000000,
+  "max_funding_basis": "total_project_costs",
+  "academic_role": "Subcontractor",
+  "research_participation_cap_pct": null,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": null,
+  "demand_management": "An SME can only submit one application into this round of the competition.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "Restriction applies only to SME lead applicants; academic_role here is Subcontractor, so it does not touch the academic route.",
+  "confidence": 0.8,
+  "notes": "Competition is restricted to single SME applicants (no Partner route); universities can only participate as Subcontractors, and no research participation cap is stated since universities cannot be funded partners.",
+  "evidence_max_funding": "your total project costs must be between £250,000 and £2 million",
+  "evidence_role": "Subcontractors are allowed in this competition.",
+  "evidence_cap": null,
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-10-31T11:59:58+00:00"
  }
 ]
