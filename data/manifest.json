@@ -1,28 +1,28 @@
 {
- "generated_at": "2026-11-03T13:56:54+00:00",
+ "generated_at": "2026-11-04T14:08:09+00:00",
  "tables": {
   "competitions": {
-   "rows": 248,
+   "rows": 249,
    "description": "One row per competition: headline facts"
   },
   "competition_dates": {
-   "rows": 1662,
+   "rows": 1677,
    "description": "Every milestone per competition, in page order"
   },
   "competition_changes": {
-   "rows": 105,
+   "rows": 111,
    "description": "Detected edits to open competitions (old vs new value)"
   },
   "competition_labels": {
-   "rows": 248,
+   "rows": 249,
    "description": "Rule based call type label per competition (derived, rebuilt daily)"
   },
   "competition_ai_fields": {
-   "rows": 248,
+   "rows": 249,
    "description": "LLM extraction payloads (raw JSON string per competition)"
   },
   "competition_academic": {
-   "rows": 248,
+   "rows": 249,
    "description": "Flattened academic eligibility fields (LLM extracted, derived)"
   }
  }

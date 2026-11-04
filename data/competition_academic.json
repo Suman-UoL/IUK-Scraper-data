@@ -4693,6 +4693,25 @@
   "extracted_at": "2026-11-02T15:18:59+00:00"
  },
  {
+  "competition_id": 2610,
+  "max_funding_gbp": 20000000,
+  "max_funding_basis": "grant",
+  "academic_role": "Partner",
+  "research_participation_cap_pct": 10,
+  "single_partner_cap_pct": null,
+  "max_academic_funding_gbp": 2000000,
+  "demand_management": "An academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "demand_management_flag": "Green",
+  "demand_management_reason": "No limit stated on number of applications for academic institutions acting as Partners, their actual role on this call.",
+  "confidence": 0.95,
+  "notes": "No per-project total eligible cost upper bound is stated (only a £5 million minimum), so the grant funding request range (£2.5m–£20m) is used as max_funding_gbp.",
+  "evidence_max_funding": "have a total grant funding request of between £2.5 million and £20 million",
+  "evidence_role": "Research and technology organisations (RTO’s) and academic institutions cannot lead or work alone.",
+  "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 10% of the total eligible project costs",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-11-04T14:08:04+00:00"
+ },
+ {
   "competition_id": 2616,
   "max_funding_gbp": 2000000,
   "max_funding_basis": "total_project_costs",
