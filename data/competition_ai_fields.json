@@ -1488,6 +1488,12 @@
   "extracted_at": "2026-11-04T14:08:04+00:00"
  },
  {
+  "competition_id": 2613,
+  "payload_json": "{\"max_funding_gbp\": 7500000, \"max_funding_basis\": \"grant\", \"academic_role\": \"Partner\", \"research_participation_cap_pct\": 50, \"single_partner_cap_pct\": null, \"demand_management\": \"An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\", \"demand_management_flag\": \"Green\", \"demand_management_reason\": \"The only stated restriction applies to the Lead role, but academic institutions cannot lead and instead act as Partners on this call, so it does not affect them.\", \"evidence\": {\"max_funding\": \"have a total grant funding request of between £2 million and £7.5 million\", \"academic_role\": \"Academic institutions cannot lead.\", \"research_cap\": \"research organisations undertaking non-economic activity as part of the project can share up to 50% of the total eligible project costs\"}, \"confidence\": 0.95, \"notes\": \"Figure used is the grant funding request range (no total eligible/project costs range stated); the £15m figure is the whole programme allocation, not per-project.\", \"max_academic_funding_gbp\": 3750000, \"usage\": {\"in\": 7967, \"out\": 630}}",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-11-10T14:40:27+00:00"
+ },
+ {
   "competition_id": 2616,
   "payload_json": "{\"max_funding_gbp\": 2000000, \"max_funding_basis\": \"total_project_costs\", \"academic_role\": \"Subcontractor\", \"research_participation_cap_pct\": null, \"single_partner_cap_pct\": null, \"demand_management\": \"An SME can only submit one application into this round of the competition.\", \"demand_management_flag\": \"Green\", \"demand_management_reason\": \"Restriction applies only to SME lead applicants; academic_role here is Subcontractor, so it does not touch the academic route.\", \"evidence\": {\"max_funding\": \"your total project costs must be between £250,000 and £2 million\", \"academic_role\": \"Subcontractors are allowed in this competition.\", \"research_cap\": null}, \"confidence\": 0.8, \"notes\": \"Competition is restricted to single SME applicants (no Partner route); universities can only participate as Subcontractors, and no research participation cap is stated since universities cannot be funded partners.\", \"max_academic_funding_gbp\": null, \"usage\": {\"in\": 7511, \"out\": 732}}",
   "model_version": "claude-sonnet-5:academic_v4",
