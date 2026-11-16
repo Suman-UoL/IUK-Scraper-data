@@ -4748,5 +4748,24 @@
   "evidence_cap": null,
   "model_version": "claude-sonnet-5:academic_v4",
   "extracted_at": "2026-10-31T11:59:58+00:00"
+ },
+ {
+  "competition_id": 2620,
+  "max_funding_gbp": 7000000,
+  "max_funding_basis": "grant",
+  "academic_role": "Lead",
+  "research_participation_cap_pct": 100,
+  "single_partner_cap_pct": 70,
+  "max_academic_funding_gbp": 7000000,
+  "demand_management": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible. An eligible organisation that is leading an application can be included as a collaborator in a further two applications.",
+  "demand_management_flag": "Red",
+  "demand_management_reason": "Restricts an organisation to leading only one application; academic_role here is Lead, so this directly limits academic institutions.",
+  "confidence": 0.95,
+  "notes": "Grant funding request range is treated as the per-project total cost range since funding covers 100% of eligible costs; both lead and sole-applicant routes require the organisation to be an academic institution, confirming Lead role.",
+  "evidence_max_funding": "have total grant funding request between £5.5 million and £7 million",
+  "evidence_role": "To lead a collaborative project your organisation must be an academic institution based in the UK.",
+  "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 100% of the total eligible project costs",
+  "model_version": "claude-sonnet-5:academic_v4",
+  "extracted_at": "2026-11-16T15:22:56+00:00"
  }
 ]
