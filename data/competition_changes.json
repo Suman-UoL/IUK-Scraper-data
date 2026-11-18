@@ -1054,5 +1054,29 @@
   "old_value": "16 November 2026\nCompetition opens\n24 November 2026\nOnline briefing event: join at 12pm\n(Briefing slides will be available to download from Supporting Information after the event)\n15 January 2027 11:00am\nCompetition closes\n8 February 2027\nInvite to interview\n22 February 2027\nInterview panel starts\n23 February 2027\nInterview panel ends\n1 March 2027\nFunders panel\n1 March 2027\nApplicants notified\n1 May 2027\nProject start by",
   "new_value": "16 November 2026\nCompetition opens\n24 November 2026\nOnline briefing event:\nregister to attend\nat 12pm\n(Briefing slides will be available to download from Supporting Information after the event)\n15 January 2027 11:00am\nCompetition closes\n8 February 2027\nInvite to interview\n22 February 2027\nInterview panel starts\n23 February 2027\nInterview panel ends\n1 March 2027\nFunders panel\n1 March 2027\nApplicants notified\n1 May 2027\nProject start by",
   "detected_at": "2026-11-17T15:46:46+00:00"
+ },
+ {
+  "id": 133,
+  "competition_id": 2582,
+  "field": "status",
+  "old_value": "open",
+  "new_value": "closed",
+  "detected_at": "2026-11-18T15:25:55+00:00"
+ },
+ {
+  "id": 134,
+  "competition_id": 2588,
+  "field": "status",
+  "old_value": "open",
+  "new_value": "closed",
+  "detected_at": "2026-11-18T15:26:06+00:00"
+ },
+ {
+  "id": 135,
+  "competition_id": 2602,
+  "field": "section:dates",
+  "old_value": "21 October 2026\nCompetition opens\n23 October 2026\nOnline briefing event:\nwatch the recording\nBriefing slides are available to download from Supporting Information\n6 November 2026\nDrop in session: join at 11am\n19 November 2026\nDrop in session: join at 11am\n2 December 2026 11:00am\nCompetition closes\n28 January 2027\nInvite to interview\n24 February 2027\nInterview start\n26 February 2027\nInterview end\n10 March 2027\nApplicants notified\n1 June 2027\nProject start from",
+  "new_value": "21 October 2026\nCompetition opens\n23 October 2026\nOnline briefing event:\nwatch the recording\nBriefing slides are available to download from Supporting Information\n6 November 2026\nDrop in session: join at 11am\n19 November 2026\nDrop in session:\njoin at 11am\n2 December 2026 11:00am\nCompetition closes\n28 January 2027\nInvite to interview\n24 February 2027\nInterview start\n26 February 2027\nInterview end\n10 March 2027\nApplicants notified\n1 June 2027\nProject start from",
+  "detected_at": "2026-11-18T15:26:27+00:00"
  }
 ]
