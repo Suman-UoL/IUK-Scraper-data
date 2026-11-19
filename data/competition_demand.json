@@ -1,0 +1,2512 @@
+[
+ {
+  "competition_id": 1389,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 1585,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 1919,
+  "section_found": 1,
+  "rule_text": "An eligible public sector organisation can lead on any number of applications for different projects.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "28d88060ed42",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 1954,
+  "section_found": 1,
+  "rule_text": "There is no limit on the number of applications an organisation can be involved in.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "92fcdd16cc74",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2006,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAll other organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "0f59389a18fd",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2010,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAcademic institutions, research and technology organisations (RTO), charities, not for profits or public sector organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "6e09a6ba4c7c",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2034,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application in this competition but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution, research and technology organisation, charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a33f6462934f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2043,
+  "section_found": 1,
+  "rule_text": "A business of any size can only lead on one application but can be included as a collaborator in two further applications.\n\nAn organisation that is not leading any application, can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3b5ba7c36307",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2049,
+  "section_found": 1,
+  "rule_text": "A UK business can only lead on one application but can be included as a collaborator in one further application.\n\nA UK business that is not leading an application can collaborate on a maximum of two applications.\n\nA Canadian SME may only participate in one application either as a lead or collaborator.\n\nAcademic institutions or RTOs can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "cbb8b228196b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2057,
+  "section_found": 1,
+  "rule_text": "A business or research and technology organisation (RTO) can only lead on one application but can be included as a collaborator in two further applications.\n\nThis limit extends to current owners, directors and persons of significant interest, prohibiting them from leading multiple submissions through different entities. Any subsequent applications submitted with the same lead will be ineligible and will not be forwarded for assessment.\n\nAll project partners can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "1f80bfc5aa01",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2058,
+  "section_found": 1,
+  "rule_text": "A fellow can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "5a433f0954ed",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2060,
+  "section_found": 1,
+  "rule_text": "A project lead can only lead on one application but can be included as a collaborator in two further applications.\n\nA business that is not leading an application can collaborate on any number of applications.\n\nAn academic institution, charity, not for profit, public sector organisation, community interest company (CIC), or research and technology organisation (RTO) can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "4468e994c519",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2072,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "c6e7b26190f9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2078,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2080,
+  "section_found": 1,
+  "rule_text": "A UK registered business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a UK registered business is not leading an application it can collaborate in up to three applications.\n\nA UK registered academic institution or RTO can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2dd43b4cc572",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2088,
+  "section_found": 1,
+  "rule_text": "A business, research and technology organisation (RTO), or public sector organisation can only lead on one application but can be included as a collaborator in one further application.\n\nIf an organisation is not leading any application, it can collaborate in up to two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "952d40d7e7d0",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2089,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2101,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2128,
+  "section_found": 1,
+  "rule_text": "Your business can only submit one application per round of this competition. If you submit more than one application, only the first application will be considered for assessment.\n\nYou cannot submit an application in this competition at the same time as submitting an application in any other innovation loans or defence innovation loans competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3d6b26922a9b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2136,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2142,
+  "section_found": 1,
+  "rule_text": "A business of any size, academic institution, charity, not for profit, public sector organisation or research and technology organisation (RTO) can lead one application and can be included as a collaborator in any number of applications.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "e93fae2c8777",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2153,
+  "section_found": 1,
+  "rule_text": "You can only apply for this Create Growth programme Competition 4 once across both strands. If more than one application across both strands is submitted, only the first application will be progressed and any subsequent applications will be deemed ineligible. Previously funded Create Growth Programme business are eligible to apply for this round. Sanctions\n\nThis competition will not fund you, or provide any financial benefit to any individual or entities directly or indirectly involved with you, which would expose Innovate UK or any direct or indirect beneficiary of funding from Innovate UK to UK Sanctions . For example, through any procurement, commercial, business development or supply chain activity with any entity as lead, partner or subcontractor related to these countries , administrations and terrorist groups.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "c8dd23d300a7",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2157,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2158,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2159,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2160,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2162,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "17556cac321e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2163,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2164,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2165,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading any application, it can collaborate in up to three applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2430f01ef208",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2168,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nAll other organisation types and businesses not acting as a lead can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "0a0965274031",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2169,
+  "section_found": 1,
+  "rule_text": "A business, academic institution or research and technology organisation (RTO) can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "d902a264dc25",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2175,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2177,
+  "section_found": 1,
+  "rule_text": "An eligible public sector organisation can only lead on up to two applications across all strands of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2681cb8b66c4",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2178,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent AKT funded projects.",
+  "has_limit": 1,
+  "ended_by": "end",
+  "source": "html",
+  "text_hash": "5925e933f1bd",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2179,
+  "section_found": 1,
+  "rule_text": "Organisations applying to this competition can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "49ec4813c844",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2181,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2183,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2184,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner,including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "5d7aa93dfdb7",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2185,
+  "section_found": 1,
+  "rule_text": "An eligible public sector organisation can only lead on up to two applications across all strands of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2681cb8b66c4",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2186,
+  "section_found": 1,
+  "rule_text": "An eligible public sector organisation can only lead on up to two applications across all strands of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2681cb8b66c4",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2188,
+  "section_found": 1,
+  "rule_text": "Your business can only submit one application per round of this competition. If you submit more than one application, only the first application will be considered for assessment.\n\nYou cannot submit an application in this competition at the same time as submitting an application in any other innovation loans or defence innovation loans competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3d6b26922a9b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2189,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2191,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2192,
+  "section_found": 1,
+  "rule_text": "A UK business can only lead on one application but can be included as a collaborator in one further application.\n\nA UK business that is not leading an application can collaborate on a maximum of two applications.\n\nA Canadian SME may only participate in one application either as a lead or collaborator.\n\nUK Academic institutions or RTOs can collaborate in up to three applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "54db98e1cb2d",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2194,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2196,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in one further application.\n\nIf a business is not leading any application, it can collaborate in two applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate in two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "838c74bb1bed",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2197,
+  "section_found": 1,
+  "rule_text": "A business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "8f080aae3bd4",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2198,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2200,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2204,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2207,
+  "section_found": 1,
+  "rule_text": "An SME can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "0f405f971619",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2209,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2212,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application and be included as a collaborator in any number of applications. Any subsequent applications submitted with the same project lead will not be forwarded for assessment.\n\nIf you are not leading any application, you can collaborate in any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "fe96ea264ab0",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2215,
+  "section_found": 1,
+  "rule_text": "An eligible UK business can submit one application only. We will only award grant funding to one project per business.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "464b4410c10e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2217,
+  "section_found": 1,
+  "rule_text": "An eligible government research organisation can lead on any number of applications. There must not be multiple applications to develop the same Knowledge Asset in the same call. Any additional applications for the same Knowledge Asset in later calls are allowed (see previous applications section below).",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "66542a1a4a0b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2218,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2220,
+  "section_found": 1,
+  "rule_text": "An eligible UK business can submit one application only. We will only award grant funding to one project per business.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "464b4410c10e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2222,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "17556cac321e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2223,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2225,
+  "section_found": 1,
+  "rule_text": "A business can lead and be included as a collaborator in any number of applications.If an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "bd6f18a136a1",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2228,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2236,
+  "section_found": 1,
+  "rule_text": "Your business can only submit one application per round of this competition. If you submit more than one application, only the first application will be considered for assessment.\n\nYou cannot submit an application in this competition at the same time as submitting an application in any other innovation loans or DASA defence innovation loans competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ce48a23d73d2",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2239,
+  "section_found": 1,
+  "rule_text": "A business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "8f080aae3bd4",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2240,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2241,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2242,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2244,
+  "section_found": 1,
+  "rule_text": "There is no limit on the number of applications an organisation can be involved in.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "92fcdd16cc74",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2245,
+  "section_found": 1,
+  "rule_text": "There is no limit on the number of applications an organisation can be involved in.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "92fcdd16cc74",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2247,
+  "section_found": 1,
+  "rule_text": "There are no restrictions on the number of applications on which an eligible organisation can lead. Successful applicants will be asked to confirm they have the capacity to run multiple projects simultaneously. Sanctions This competition will not fund you, or provide any financial benefit to any individual or entities directly or indirectly involved with you, which would expose Innovate UK or any direct or indirect beneficiary of funding from Innovate UK to UK Sanctions . For example, through any procurement, commercial, business development or supply chain activity with any entity as lead, partner or subcontractor related to these countries , administrations and terrorist groups.\n\nUse of animals in research and innovation Innovate UK expects and supports the provision and safeguarding of welfare standards for animals used in research and innovation, according to best practice and up to date guidance.\n\nApplicants must ensure that all of the proposed work within projects, both that in the UK and internationally, will comply with the UKRI guidance on the use of animals in research and innovation .\n\nAny projects selected for funding which involve animals will be asked to provide additional information on welfare and ethical considerations, as well as compliance with any relevant legislation as part of the project start-up process. This information will be reviewed before an award is made.",
+  "has_limit": 0,
+  "ended_by": "end",
+  "source": "html",
+  "text_hash": "11545c181159",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2251,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2259,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ae735464b7f3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2265,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "17556cac321e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2266,
+  "section_found": 1,
+  "rule_text": "A UK registered micro, small or medium sized enterprise (SME), must submit only one application to this competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45436acbc3fe",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2273,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2275,
+  "section_found": 1,
+  "rule_text": "Your business can only submit one application per round of this competition. If you submit more than one application, only the first application will be considered for assessment.\n\nYou cannot submit an application in this competition at the same time as submitting an application in any other innovation loans or DASA defence innovation loans competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ce48a23d73d2",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2276,
+  "section_found": 1,
+  "rule_text": "A UK registered business can only lead on one application but can be included as a collaborator in a further two applications.\n\nIf a UK registered business is not leading any application, it can collaborate in up to three applications.\n\nAn academic institution or RTO can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "84d7030aa254",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2277,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2279,
+  "section_found": 1,
+  "rule_text": "A business can lead or collaborate on any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "7d310802ecf9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2284,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2288,
+  "section_found": 1,
+  "rule_text": "A UK business can only lead on one application but can be included as a collaborator in one further application.\n\nA UK business that is not leading an application can collaborate on a maximum of two applications.\n\nAcademic institutions, National Labs or RTOs can collaborate in any number of applications subject to the availability of their respective resources and capacities.\n\nIf more than one application is submitted with the same UK business as lead, only the first application will be progressed, and any subsequent applications will be deemed ineligible.\n\nIf more than two applications are submitted with the same UK business as collaborator, only the first two applications will be progressed, and any subsequent applications will be deemed ineligible",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2f4a7c2621b5",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2290,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2632655c0394",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2292,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2293,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can lead on one application only.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "e627b85524c3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2295,
+  "section_found": 1,
+  "rule_text": "An eligible government research organisation can lead on any number of applications. There must not be multiple applications to develop the same Knowledge Asset in the same call. Any additional applications for the same Knowledge Asset in later calls are allowed (see previous applications section below).",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "66542a1a4a0b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2298,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "17556cac321e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2299,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2304,
+  "section_found": 1,
+  "rule_text": "Businesses can only lead on one application, but can collaborate on any number of applications. Other organisations can collaborate in any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "e5ae4d42b4cb",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2305,
+  "section_found": 1,
+  "rule_text": "A business can lead on only one application for this competition. Any subsequent applications submitted by the same business will be ineligible and will not be forwarded for assessment.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "b8badddea56d",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2307,
+  "section_found": 1,
+  "rule_text": "A business, or a local authority or transport authority can only lead on one application and cannot be included as a collaborator in any other applications.\n\nIf your organisation is not leading an application it can collaborate in up to two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "afe332a6b4ed",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2313,
+  "section_found": 1,
+  "rule_text": "A UK registered business can lead a project and be included as a collaborator on any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "8d83d0d3109f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2314,
+  "section_found": 1,
+  "rule_text": "A UK registered business can lead a project and be included as a collaborator on any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "8d83d0d3109f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2315,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in one further application.\n\nIf an organisation is not leading any application, it can collaborate in up to two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a21a1a612c39",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2316,
+  "section_found": 1,
+  "rule_text": "A business may lead only one application but can be a partner on up to two further applications. If collaborating you can only be part of three applications.\n\nIf you wish to withdraw an application before the EOI deadline, please email support@iuk.ukri.org",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "be3774e660ae",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2317,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2318,
+  "section_found": 1,
+  "rule_text": "A business, local authority or transport authority can only lead on one application but can be included as a collaborator on one further application.\n\nIf a business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation is not leading any application it can collaborate on up to two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "8cff5a888975",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2322,
+  "section_found": 1,
+  "rule_text": "Your business can only submit one application per round of this competition. If you submit more than one application, only the first application will be considered for assessment.\n\nYou cannot submit an application in this competition at the same time as submitting an application in any other innovation loans or DASA defence innovation loans competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ce48a23d73d2",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2326,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution, charity, not for profit, public sector organisation or RTO can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "edcf093b586e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2327,
+  "section_found": 1,
+  "rule_text": "Across the two strands, an eligible business can lead on two applications and can be included as a collaborator on a further one application. Successful applicants will be asked to confirm they have the capacity to run multiple projects simultaneously.\n\nIf an eligible business is not leading any application, it can collaborate in up to three applications.\n\nAll other eligible organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2df192f34b59",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2328,
+  "section_found": 1,
+  "rule_text": "Across the two strands, an eligible business can lead on two applications and can be included as a collaborator on a further one application. Successful applicants will be asked to confirm they have the capacity to run multiple projects simultaneously.\n\nIf an eligible business is not leading any application, it can collaborate in up to three applications.\n\nAll other eligible organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2df192f34b59",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2332,
+  "section_found": 1,
+  "rule_text": "An eligible SME can only lead on one application across both strands of this competition but can be included as a collaborator in two further applications.\n\nIf you are not leading an application as an eligible SME you can only collaborate on three applications across the two strands of this competition.\n\nA research and technology organisation (RTO), a large business, academic institution, charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "43fee57978d5",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2333,
+  "section_found": 1,
+  "rule_text": "An eligible SME can only lead on one application across both strands of this competition but can be included as a collaborator in two further applications.\n\nIf you are not leading an application as an eligible SME you can only collaborate on three applications across the two strands of this competition.\n\nA research and technology organisation (RTO), a large business, academic institution, charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "43fee57978d5",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2334,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2335,
+  "section_found": 1,
+  "rule_text": "A business or academic institution can only lead on one application but can be included as a collaborator in a further two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "847eb963bc9e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2337,
+  "section_found": 1,
+  "rule_text": "You can only make one application for yourself. Only one woman working within an organisation can apply.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "551f6f3d477f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2341,
+  "section_found": 1,
+  "rule_text": "There are no restrictions on the number of applications on which an eligible organisation can lead. Successful applicants will be asked to confirm they have the capacity to run multiple projects simultaneously.\n\nThe maximum subsidy amount which can be awarded per individual enterprise under this route is £3 million. Cumulation rules will apply if you have received funding from any Public Authority which meets all of the following conditions:\n\n• for the same project, or activities defined in this project\n• for the same, or substantially the same, specific purpose\n• within the last three financial years, that is, the last two complete financial years running from April to 31 March and the lapsed part of the current financial year\n\nIf this applies, it may affect the amount of subsidy you can be awarded for this project.\n\nNote: Cumulation per applicant rules apply for a three year rolling period (project lifespan), or the lifespan of that project if longer than three years.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "8ee563e2a368",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2346,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2350,
+  "section_found": 1,
+  "rule_text": "There is no limit on the number of applications an organisation can be involved in.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "92fcdd16cc74",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2351,
+  "section_found": 1,
+  "rule_text": "There is no limit on the number of applications an organisation can be involved in.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "92fcdd16cc74",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2354,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2632655c0394",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2358,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "17556cac321e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2360,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2362,
+  "section_found": 1,
+  "rule_text": "All eligible organisations can lead or collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "201583b2f38f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2363,
+  "section_found": 1,
+  "rule_text": "All eligible organisations can lead or collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "201583b2f38f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2364,
+  "section_found": 1,
+  "rule_text": "All eligible organisations can lead or collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "201583b2f38f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2369,
+  "section_found": 1,
+  "rule_text": "An eligible government research organisation can lead on any number of applications. There must not be multiple applications to develop the same Knowledge Asset in the same call. Any additional applications for the same Knowledge Asset in later calls are allowed (see previous applications section below).",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "66542a1a4a0b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2371,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2373,
+  "section_found": 1,
+  "rule_text": "Your business can only submit one application per round of this competition. If you submit more than one application, only the first application will be considered for assessment.\n\nYou cannot submit an application in this competition at the same time as submitting an application in any other innovation loans or DASA defence innovation loans competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ce48a23d73d2",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2375,
+  "section_found": 1,
+  "rule_text": "An academic institution or education provider can lead a maximum of two applications and can collaborate in any number of applications.\n\nIf an academic institution or education provider is not leading any application, it can collaborate in any number applications.\n\nA business of any size, charity, not for profit, public sector organisation or research and technology organisation (RTO) can collaborate in two applications.\n\nIf these limits are exceeded, applications will be made ineligible. Where an organisation appears on more applications than permitted, only the first two eligible applications submitted will be considered.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "918f70e49349",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2376,
+  "section_found": 1,
+  "rule_text": "You can submit more than one application if you have multiple ideas, but we will not select more than one for funding.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "400085e5a86f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2378,
+  "section_found": 1,
+  "rule_text": "A business, research and technology organisation (RTO), academic institutions, charity, not for profit or public sector organisation can only lead on one application but can be included as a collaborator in a further two applications.\n\nIf an organisation is not leading any application, it can collaborate in two applications.\n\nLocal authorities cannot lead an application but can collaborate in any number of applications.\n\nIf these limits are exceeded, applications will be made ineligible. Where an organisation appears on more applications than permitted, only the first eligible applications submitted will be considered.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "20e1cec0b8e6",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2380,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2632655c0394",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2384,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application and can be included as a collaborator in a further two applications. If a business is not leading any application, it can collaborate in any number of applications.\n\nAn RTO can only lead on one application and can be included as a collaborator on any number of applications.\n\nAn academic institution, charity, not for profit, public sector organisation can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a5501c2ae1d9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2385,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "17556cac321e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2387,
+  "section_found": 1,
+  "rule_text": "An organisation can only lead on one application but can be included as a collaborator in a further two applications.\n\nIf an organisation is not leading any application, it can collaborate in up to three applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "affbf5ee0497",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2388,
+  "section_found": 1,
+  "rule_text": "A business of any size, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only lead on one application per strand, but may apply for both strands with tailored applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "67977e0ff9cd",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2389,
+  "section_found": 1,
+  "rule_text": "A business of any size, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only lead on one application per strand, but may apply for both strands with tailored applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "67977e0ff9cd",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2392,
+  "section_found": 1,
+  "rule_text": "A UK business can only lead on one application but can be included as a collaborator in one further application. If more than one application is submitted with the same UK business as lead, only the first application will be progressed, and any subsequent applications will be deemed ineligible.\n\nA UK business that is not leading an application can collaborate on a maximum of two applications. If more than two applications are submitted with the same UK business as collaborator, only the first two applications will be progressed, and any subsequent applications will be deemed ineligible.\n\nAcademic institutions or RTOs can collaborate in any number of applications subject to the availability of their respective resources and capacities.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "18d137225354",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2394,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAcademic institutions, NHS service providers, Primary care providers, research and technology organisation, third sector providers, not for profit or local authorities can collaborate on any number of applications.\n\nIf you submit the same project into both the Contracts for Innovation and the CR&D strands we will only accept your first application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "5745a8632de3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2395,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2396,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2397,
+  "section_found": 1,
+  "rule_text": "A business can lead or collaborate on multiple applications but you must demonstrate how you will deliver the projects.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.\n\nAcademic institutions, charities, not for profits, public sector organisations and RTOs can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "04777b2ce094",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2398,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2632655c0394",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2400,
+  "section_found": 1,
+  "rule_text": "A business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only lead on one application but can be included as a collaborator in two further applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "7af9bd8b77c3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2403,
+  "section_found": 1,
+  "rule_text": "A business can only lead one application. A business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only be included as a collaborator in three applications.\n\nIf a business is leading an application, it can collaborate in up to 2 further applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "420eb97c2236",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2404,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2408,
+  "section_found": 1,
+  "rule_text": "A business, academic institution, research and technology organisation (RTO), public sector organisation can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business, academic institution, research and technology organisation (RTO), public sector organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "61386e66f596",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2409,
+  "section_found": 1,
+  "rule_text": "A business, academic institution, research and technology organisation (RTO) or public sector organisation can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business, academic institution, research and technology organisation (RTO), public sector organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "4b998dddf1b6",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2414,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application across all three strands of this competition. A business can also lead on one application in the Zero Emissions Vessel Infrastructure (ZEVI) 2 competition.\n\nIf leading an application, a business can also be included as a collaborator or be a subcontractor in two further applications across all three strands of this competition and the ZEVI 2 competition.\n\nIf a business is not leading any application, it can collaborate or be a subcontractor in any number of applications across all CMDC7 competition strands and the ZEVI 2 competition.\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.\n\nOther eligible organisations can collaborate on any number of applications.\n\nIf you are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources at interview, if invited.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are already involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this CMDC 7 competition.\n\nInnovate UK reserve the right to decide the success of an application based on evidence of capacity to manage multiple live projects. If you are delivering live Innovate UK projects, we will review your current delivery and performance towards expected stated deliverables.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "edd5b5b7bdda",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2415,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application across all three strands of this competition. A business can also lead on one application in the Zero Emissions Vessel Infrastructure (ZEVI) 2 competition.\n\nIf leading an application, a business can also be included as a collaborator or be a subcontractor in two further applications across all three strands of this competition and the ZEVI 2 competition.\n\nIf a business is not leading any application, it can collaborate or be a subcontractor in any number of applications across all CMDC7 competition strands and the ZEVI 2 competition.\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.\n\nOther eligible organisations can collaborate on any number of applications.\n\nIf you are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources at interview, if invited.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are already involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this CMDC 7 competition.\n\nInnovate UK reserve the right to decide the success of an application based on evidence of capacity to manage multiple live projects. If you are delivering live Innovate UK projects, we will review your current delivery and performance towards expected stated deliverables.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "edd5b5b7bdda",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2416,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application across all three strands of this competition. A business can also lead on one application in the Zero Emissions Vessel Infrastructure (ZEVI) 2 competition.\n\nIf leading an application, a business can also be included as a collaborator or be a subcontractor in two further applications across all three strands of this competition and the ZEVI 2 competition.\n\nIf a business is not leading any application, it can collaborate or be a subcontractor in any number of applications across all CMDC7 competition strands and the ZEVI 2 competition.\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.\n\nOther eligible organisations can collaborate on any number of applications.\n\nIf you are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources at interview, if invited.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are already involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this CMDC 7 competition.\n\nInnovate UK reserve the right to decide the success of an application based on evidence of capacity to manage multiple live projects. If you are delivering live Innovate UK projects, we will review your current delivery and performance towards expected stated deliverables.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "edd5b5b7bdda",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2417,
+  "section_found": 1,
+  "rule_text": "A UK registered micro, small or medium sized enterprise (SME) can only lead on one application but can be included as a collaborator in any number of applications.\n\nOrganisations not leading an application can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ee62f076f553",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2419,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "ae735464b7f3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2420,
+  "section_found": 1,
+  "rule_text": "As we are encouraging the use of national testbeds, we understand that these organisations may be included in multiple projects. In this specific case, involvement in multiple projects is accepted.\n\nHowever, if testbeds are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this Advanced Connectivity Technologies (ACT) competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "f8e003544e46",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2421,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in a further two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "b9e98ffb2d77",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2422,
+  "section_found": 1,
+  "rule_text": "A business, research organisation, research and technology organisation (RTO), charity, not for profit, non-governmental organisation (NGO) or public sector organisation can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "c8a2e621bba2",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2423,
+  "section_found": 1,
+  "rule_text": "An SME can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "0f405f971619",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2424,
+  "section_found": 1,
+  "rule_text": "A business or research and technology organisation (RTO) can only lead on one application but can be included as a collaborator in a further two applications.\n\nIf a business is not leading any application, it can collaborate in further two applications.\n\nIf an RTO is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution, charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "e6e1a0ad47ab",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2426,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2427,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "c6e7b26190f9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2428,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "c6e7b26190f9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2432,
+  "section_found": 1,
+  "rule_text": "A business can lead on up to two applications but can be included as a collaborator in any number of applications.\n\nAll eligible partners can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "b94e64935902",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2433,
+  "section_found": 1,
+  "rule_text": "A business can lead on up to two applications but can be included as a collaborator in any number of applications.\n\nAll eligible organisations can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "788e542a267b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2434,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application across all three strands of this competition. A business can also lead on one application across all three strands of Clean Maritime Demonstration Competition 7 (CMDC 7).\n\nIf leading an application, a business can also be included as a collaborator or subcontractor in two further applications across all three strands of this competition and the CMDC 7.\n\nIf a business is not leading any application, it can collaborate or be a subcontractor in any number of applications across all three strands of the ZEVI 2 and the CMDC 7 competitions\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.\n\nAll other eligible organisations can collaborate on any number of applications.\n\nIf you are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources at interview, if invited.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this ZEVI 2 competition.\n\nInnovate UK reserve the right to decide the success of an application based on evidence of capacity to manage multiple live projects. If you are delivering live Innovate UK projects, we will review your current delivery and performance towards expected stated deliverables.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "4c370fdfd735",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2435,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application across all three strands of this competition. A business can also lead on one application across all three strands of Clean Maritime Demonstration Competition 7 (CMDC 7).\n\nIf leading an application, a business can also be included as a collaborator or subcontractor in two further applications across all three strands of this competition and the CMDC 7.\n\nIf a business is not leading any application, it can collaborate or be a subcontractor in any number of applications across all three strands of the ZEVI 2 and the CMDC 7 competitions\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.\n\nAll other eligible organisations can collaborate on any number of applications.\n\nIf you are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources at interview, if invited.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this ZEVI 2 competition.\n\nInnovate UK reserve the right to decide the success of an application based on evidence of capacity to manage multiple live projects. If you are delivering live Innovate UK projects, we will review your current delivery and performance towards expected stated deliverables.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "4c370fdfd735",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2436,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application across all three strands of this competition. A business can also lead on one application across all three strands of Clean Maritime Demonstration Competition 7 (CMDC 7).\n\nIf leading an application, a business can also be included as a collaborator or subcontractor in two further applications across all three strands of this competition and the CMDC 7.\n\nIf a business is not leading any application, it can collaborate or be a subcontractor in any number of applications across all three strands of the ZEVI 2 and the CMDC 7 competitions.\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.\n\nAll other eligible organisations can collaborate on any number of applications.\n\nIf you are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources at interview, if invited.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this ZEVI 2 competition.\n\nInnovate UK reserve the right to decide the success of an application based on evidence of capacity to manage multiple live projects. If you are delivering live Innovate UK projects, we will review your current delivery and performance towards expected stated deliverables.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "e70d82762471",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2437,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2439,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2440,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "06c6f76f5652",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2441,
+  "section_found": 1,
+  "rule_text": "A business can only lead one application. A business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only be included as a collaborator in three applications.\n\nIf a business is leading an application, it can collaborate in up to 2 further applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "420eb97c2236",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2442,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "9f9c61792639",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2443,
+  "section_found": 1,
+  "rule_text": "A UK registered business can lead on one application and be included as a collaborator in any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "25638907e4da",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2444,
+  "section_found": 1,
+  "rule_text": "A UK registered business can only lead on one application but can be included as a collaborator in any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "766ffd7d7f95",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2445,
+  "section_found": 1,
+  "rule_text": "A business can lead or collaborate on any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "7d310802ecf9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2449,
+  "section_found": 1,
+  "rule_text": "An academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "fe5f782cb544",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2450,
+  "section_found": 1,
+  "rule_text": "A business of any size can only apply and receive funding once in this first stage competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a9bf8878eeed",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2452,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2453,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in a further two applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution, charity, not for profit, public sector organisation, research and technology organisation can collaborate on any number of applications.\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3255ca308463",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2457,
+  "section_found": 1,
+  "rule_text": "A spin-out can only make one application to this competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a5ac4ebc3eb0",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2458,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2460,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2467,
+  "section_found": 1,
+  "rule_text": "A business or public sector organisation can only lead on one application but can be included as a collaborator in one further application.\n\nIf a business or public sector organisation is not leading any application, it can collaborate in up to two applications.\n\nAn academic institute, research and technology organisation (RTO), charity or not for profit can collaborate on up to two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "82dcfc25684e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2468,
+  "section_found": 1,
+  "rule_text": "A business or public sector organisation can only lead on one application but can be included as a collaborator in a further one application.\n\nIf a business or public sector organisation is not leading any application, it can collaborate in up to two applications.\n\nAn academic institution, research and technology organisation (RTO), charity or not for profit organisation can collaborate on up to two applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "68f07948d898",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2469,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution, charity, not for profit, public sector organisation or RTO can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "edcf093b586e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2472,
+  "section_found": 1,
+  "rule_text": "An SME can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "0f405f971619",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2473,
+  "section_found": 1,
+  "rule_text": "Each Knowledge Base can collaborate with any number of Business Partners.\n\nPrevious applications\n\nYou cannot use a previously submitted application to apply for this competition. All applications are scanned and compared, electronically checking for similarities.\n\nWe will not award you funding if you have previously:\n\n• submitted the same application\n• failed to exploit other Innovate UK or UKRI funded projects\n• not complied with the grant terms and conditions of any Innovate UK or UKRI funded projects",
+  "has_limit": 0,
+  "ended_by": "end",
+  "source": "html",
+  "text_hash": "46dbb8f7d6f5",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2474,
+  "section_found": 1,
+  "rule_text": "As we are encouraging the use of national testbeds, we understand that these organisations may be included in multiple projects. In this specific case, involvement in multiple projects is accepted.\n\nHowever, if testbeds are involved in more than one application, you must clearly state how all projects can be resourced and delivered if successful. You may be asked for further evidence of your resources.\n\nIf Innovate UK have concerns about your ability to deliver multiple projects successfully, we reserve the right to award funding based on evidence of your capacity to manage them.\n\nIf you are involved in other Innovate UK funded projects, you must show you have the resources in place to deliver further projects funded by this Advanced Connectivity Technologies (ACT) competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "f8e003544e46",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2475,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2478,
+  "section_found": 1,
+  "rule_text": "An eligible government research organisation can lead on any number of applications. There must not be multiple applications to develop the same Knowledge Asset in the same call. Any additional applications for the same Knowledge Asset in later calls are allowed (see previous applications section below).",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "66542a1a4a0b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2480,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2482,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only submit one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2f01a7e3e1a0",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2484,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2491,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "1719f1643e39",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2495,
+  "section_found": 1,
+  "rule_text": "An eligible business can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible business that is leading an application can be included as a collaborator in two further applications.\n\nAny organisation not leading an application can collaborate in any number of applications.\n\nIf you submit more than one application, you must calculate any funding awarded for projects that are for the same or substantially the same activities or purpose. The total must not exceed £3 million.\n\nYou can claim up to £3 million per project where each project is materially different.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "02bb83c43c03",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2497,
+  "section_found": 1,
+  "rule_text": "A business can lead on up to two applications but can be included as a collaborator in any number of applications.\n\nAll eligible organisations can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "788e542a267b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2499,
+  "section_found": 1,
+  "rule_text": "A fellow can only lead on one application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "5a433f0954ed",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2500,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only lead on one application but can be included as a collaborator in two further applications.\n\nIf an organisation is not leading an application it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "9f9c61792639",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2502,
+  "section_found": 1,
+  "rule_text": "An academic institution can lead or collaborate on any number of applications. Each application must have a different lead applicant.\n\nEach application must be led by a different Project Lead and demonstrate a clearly distinct and non-overlapping project scope.\n\nWe reserve the right to fund one or multiple applications from the same university, where justified by quality and portfolio balance.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "269f27c4198c",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2504,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "1719f1643e39",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2505,
+  "section_found": 1,
+  "rule_text": "There is no limit on the number of Expressions of Interest you may submit.\n\nIf you are invited to submit full applications, we will assess your capacity to undertake multiple projects at the same time, including consideration of your existing financial commitments .",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "301d36a4292f",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2509,
+  "section_found": 1,
+  "rule_text": "A business of any size or a research and technology organisation (RTO) can only lead on one application but can be included as a collaborator in two further applications.\n\nAn academic institution may lead on multiple applications, provided that a single department within that academic institution is only leading on one application.\n\nIf a business, academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation, or business is not leading any application, it can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "60a3eb6c5abe",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2511,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2512,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible. The first application will be the only one considered for assessment.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "0f72b3cc7de8",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2513,
+  "section_found": 1,
+  "rule_text": "An eligible UK business can submit one application only. We will only award grant funding to one project per business.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "464b4410c10e",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2514,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2632655c0394",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2517,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application. Any further applications by the same business as lead will be made ineligible.\n\nA business that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in up to three applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can be collaborators on three applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "4e8bc9f44808",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2520,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only submit one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2f01a7e3e1a0",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2522,
+  "section_found": 1,
+  "rule_text": "There is no limit to the number of applications an organisation can be involved in.\n\nSuccessful applicants will be asked to confirm they have the capacity to run multiple projects simultaneously.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "41aeba052aee",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2523,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "1719f1643e39",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2525,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2526,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2527,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nFor the avoidance of doubt the first application submitted will be accepted and any subsequent applications from the same organisation will be marked as ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in two further applications.\n\nBusinesses, academic institutions and public sector organisations who are not leading an application can collaborate on any number of applications.\n\nCharities and not for profit organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "text",
+  "text_hash": "f414667e6065",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2529,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications. Any further applications by the same organisation as lead will be made ineligible.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAll other organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "9a4793aeff80",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2531,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications.\n\nAn eligible organisation that is not leading an application can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a5341998f898",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2533,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "1719f1643e39",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2536,
+  "section_found": 1,
+  "rule_text": "A registered business can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nA registered business that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.\n\nAny other eligible organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "9670f14b8e32",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2539,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible business that is leading an application can be included as a collaborator in two further applications. If not leading, an organisation can collaborate in any number of applications.\n\nIf you submit more than one application, you must calculate any funding awarded for projects that are for the same or substantially the same activities or purpose. The total must not exceed £3 million.\n\nYou can claim up to £3 million per project where each project is materially different.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "5ad587b835b8",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2541,
+  "section_found": 1,
+  "rule_text": "A business can lead or collaborate on any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "7d310802ecf9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2542,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2544,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "1719f1643e39",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2546,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2550,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2552,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2556,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only submit one application per competition round and receive a maximum of two Facilitator Support Grants in total.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2f01a7e3e1a0",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2557,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "debd452508e9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2559,
+  "section_found": 1,
+  "rule_text": "An eligible business can only submit one application. Any further applications by the same organisation will be made ineligible.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "548b15862893",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2560,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can lead on no more than two applications. Any further applications by the same organisation as lead will be made ineligible.\n\nIf not leading, an eligible organisation can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "01f3a4ff9c31",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2566,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2567,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2568,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in two further applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAcademic institutions, research and technology organisations (RTO), charities, not for profits or public sector organisations can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "6e09a6ba4c7c",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2569,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in a further two applications.\n\nIf a business is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution, charity, not for profit, public sector organisation, or research and technology organisation can collaborate on any number of applications.\n\nApplications that do not meet these requirements will be made ineligible, in order of the most recent submission being made ineligible first.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "d176f910bf4d",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2570,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2571,
+  "section_found": 1,
+  "rule_text": "A UK registered business can lead on one application and be included as a collaborator in any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "25638907e4da",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2572,
+  "section_found": 1,
+  "rule_text": "A UK registered business can lead on one application and be included as a collaborator in any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "25638907e4da",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2573,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2574,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications.\n\nAn eligible organisation that is not leading an application can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a5341998f898",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2579,
+  "section_found": 1,
+  "rule_text": "An eligible government research organisation can lead on any number of applications. There must not be multiple applications to develop the same Knowledge Asset in the same call. Any additional applications for the same Knowledge Asset in later calls are allowed (see previous applications section below).",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "66542a1a4a0b",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2580,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2582,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "debd452508e9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2583,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2584,
+  "section_found": 1,
+  "rule_text": "An SME can only submit on one application. Any further applications by the same organisation will be made ineligible.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "044bc8a7c054",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2586,
+  "section_found": 1,
+  "rule_text": "A business can only lead on one application but can be included as a collaborator in a further 2 applications.\n\nIf an RTO is not leading any application, it can collaborate in any number of applications.\n\nAn academic institution can collaborate on any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "05b8d1df22a3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2587,
+  "section_found": 0,
+  "rule_text": null,
+  "has_limit": null,
+  "ended_by": null,
+  "source": null,
+  "text_hash": null,
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2588,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is not leading can collaborate in a one further application.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "aa46d2a985e2",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2591,
+  "section_found": 1,
+  "rule_text": "A farmer, grower or forester can only submit one application per competition round and receive a maximum of two Facilitator Support Grants in total across all rounds.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "5b10a780a796",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2595,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2596,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2597,
+  "section_found": 1,
+  "rule_text": "If the lead applicant, a UK registered SME can only lead on one application and cannot collaborate on any further applications across the three strands. Any further applications by the same organisation as lead will be made ineligible.\n\nA UK registered deployer organisation can be involved in up to three applications across three strands, where each application is materially different and relates to a distinct deployment use case.\n\nIf an organisation is neither the lead SME nor the deployer organisation, it can collaborate in any number of applications across three strands.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "794776ed2054",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2598,
+  "section_found": 1,
+  "rule_text": "If the lead applicant, a UK registered SME can only lead on one application and cannot collaborate on any further applications across the three strands. Any further applications by the same organisation as lead will be made ineligible.\n\nA UK registered deployer organisation can be involved in up to three applications across three strands, where each application is materially different and relates to a distinct deployment use case.\n\nIf an organisation is neither the lead SME nor the deployer organisation, it can collaborate in any number of applications across three strands.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "794776ed2054",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2599,
+  "section_found": 1,
+  "rule_text": "If the lead applicant, a UK registered SME can only lead on one application and cannot collaborate on any further applications across the three strands. Any further applications by the same organisation as lead will be made ineligible.\n\nA UK registered deployer organisation can be involved in up to three applications across three strands, where each application is materially different and relates to a distinct deployment use case.\n\nIf an organisation is neither the lead SME nor the deployer organisation, it can collaborate in any number of applications across three strands.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "794776ed2054",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2600,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "debd452508e9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2602,
+  "section_found": 1,
+  "rule_text": "A business of any size can only apply and receive funding once in this first stage competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "a9bf8878eeed",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2604,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2605,
+  "section_found": 1,
+  "rule_text": "Each knowledge base can collaborate with any number of business partners.\n\nEach business partner, including separate businesses within a business group, can only take part in up to four concurrent KTP funded projects.\n\nAdditional applications may be allowed at the discretion of the programme manager.\n\nYou must provide justification by email to support@iuk.ukri.org at least 20 working days before the competition closes. We will decide whether to approve your request.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "2632655c0394",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2606,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2608,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2609,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2610,
+  "section_found": 1,
+  "rule_text": "A business can lead or collaborate on any number of applications.\n\nAn academic institution, research and technology organisation (RTO), charity, not for profit or public sector organisation can collaborate on any number of applications.",
+  "has_limit": 0,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "7d310802ecf9",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2613,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "b8c9d70fc298",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2616,
+  "section_found": 1,
+  "rule_text": "An SME can only submit one application into this round of the competition.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "3fdbea0a10b3",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ },
+ {
+  "competition_id": 2620,
+  "section_found": 1,
+  "rule_text": "An eligible organisation can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn eligible organisation that is leading an application can be included as a collaborator in a further two applications and if not leading, can collaborate in any number of applications.",
+  "has_limit": 1,
+  "ended_by": "heading",
+  "source": "html",
+  "text_hash": "45b04ac08462",
+  "extracted_at": "2026-11-19T10:59:08+00:00"
+ }
+]

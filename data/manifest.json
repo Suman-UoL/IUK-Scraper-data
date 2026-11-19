@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:27:05+00:00",
+ "generated_at": "2026-11-19T11:00:42+00:00",
  "tables": {
   "competitions": {
    "rows": 251,
@@ -16,6 +16,10 @@
   "competition_labels": {
    "rows": 251,
    "description": "Rule based call type label per competition (derived, rebuilt daily)"
+  },
+  "competition_demand": {
+   "rows": 251,
+   "description": "Number of applications section copied word for word (rule based, rebuilt daily)"
   },
   "competition_ai_fields": {
    "rows": 251,
