@@ -9001,7 +9001,7 @@
  },
  {
   "competition_id": 2571,
-  "milestone_label": "Online briefing event: register to attend Briefing slides will be available to download from Supporting Information after the event.",
+  "milestone_label": "Online briefing event: register to attend Briefing slides are available to download from Supporting Information.",
   "milestone_date": "16 September 2026",
   "position": 1
  },
@@ -10180,5 +10180,101 @@
   "milestone_label": "Project start by",
   "milestone_date": "1 May 2027",
   "position": 8
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Competition opens",
+  "milestone_date": "24 November 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Online briefing event: register to attend (Briefing slides will be available to download from Supporting Information after the event)",
+  "milestone_date": "25 November 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Competition closes",
+  "milestone_date": "20 January 2027 11:00am",
+  "position": 2
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Invite to interview",
+  "milestone_date": "19 February 2027",
+  "position": 3
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Interview panel starts",
+  "milestone_date": "16 March 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Interview panel ends",
+  "milestone_date": "24 March 2027",
+  "position": 5
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "5 April 2027",
+  "position": 6
+ },
+ {
+  "competition_id": 2623,
+  "milestone_label": "Project start by",
+  "milestone_date": "1 June 2027",
+  "position": 7
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Competition opens",
+  "milestone_date": "24 November 2026",
+  "position": 0
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Online briefing event: register to attend Briefing slides will be available to download from Supporting Information after the event",
+  "milestone_date": "25 November 2026",
+  "position": 1
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Competition closes",
+  "milestone_date": "20 January 2027 11:00am",
+  "position": 2
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Invite to interview",
+  "milestone_date": "19 February 2027",
+  "position": 3
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Interview panel starts",
+  "milestone_date": "16 March 2027",
+  "position": 4
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Interview panel ends",
+  "milestone_date": "24 March 2027",
+  "position": 5
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Applicants notified",
+  "milestone_date": "5 April 2027",
+  "position": 6
+ },
+ {
+  "competition_id": 2624,
+  "milestone_label": "Project start by",
+  "milestone_date": "1 June 2027",
+  "position": 7
  }
 ]
