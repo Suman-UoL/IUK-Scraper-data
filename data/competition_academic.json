@@ -5805,9 +5805,9 @@
   "max_academic_funding_gbp": 900000,
   "demand_management": "An SME, academic or RTO can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.",
   "demand_management_flag": "Red",
-  "demand_management_reason": "Limits an academic (as lead) to one application, and academic_role here is Lead.",
+  "demand_management_reason": "Academic institutions can lead this competition, and the lead restriction (one lead application per organisation) directly applies to that role.",
   "confidence": 0.95,
-  "notes": "No total project/eligible cost range given; used the grant funding request upper bound of £3 million.",
+  "notes": "Grant funding request range is the only per-project cost figure given; no separate total eligible project costs range stated, so grant figure used.",
   "evidence_max_funding": "have a total eligible grant funding request between £1 million and £3 million for strand 2",
   "evidence_role": "Academic institutions can lead and work alone.",
   "evidence_cap": "research organisations undertaking non-economic activity as part of the project can share up to 30% of the total eligible project costs",
@@ -5816,6 +5816,6 @@
   "demand_check": "Yes",
   "demand_notes": "An SME, academic or RTO can only lead on one application. Any further applications by the same organisation as lead will be made ineligible.\n\nAn SME, academic or RTO that is leading an application can be included as a collaborator in two further applications and if not leading, can collaborate in any number of applications.\n\nA business, academic institution, RTO, charity, not for profit or public sector organisation, or business can collaborate in any number of applications.\n\nYou can apply to both strands of the AI Hardware competition. Each application must be for a different project. The same project cannot receive funding through more than one strand.",
   "model_version": "claude-sonnet-5:academic_v4",
-  "extracted_at": "2026-11-24T17:21:00+00:00"
+  "extracted_at": "2026-11-25T17:00:51+00:00"
  }
 ]
